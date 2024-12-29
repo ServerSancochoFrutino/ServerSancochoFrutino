@@ -1,33 +1,21 @@
 {
-  "incendium:technical/sentrys_wrath": {
+  "rpgsmw:choose_your_class": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 02:51:26 +0000"
+      "choose_your_class_0": "2024-12-29 02:51:24 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "tombstone:adventure/christmas": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 02:51:26 +0000"
+      "coded_trigger": "2024-12-29 02:51:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges_0": "2024-12-29 02:51:25 +0000"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 02:51:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 02:51:26 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
@@ -41,18 +29,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 02:51:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 02:51:26 +0000"
-    },
-    "done": false
-  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-29 02:51:25 +0000"
@@ -65,6 +41,60 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-29 02:51:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-29 02:51:25 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-12-29 02:51:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 02:51:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 02:51:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 02:51:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 02:51:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 02:51:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 02:51:26 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/give_ghastling": {
     "criteria": {
       "log_spam_fixer": "2024-12-29 02:51:26 +0000"
@@ -76,12 +106,6 @@
       "log_spam_fixer": "2024-12-29 02:51:26 +0000"
     },
     "done": false
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2024-12-29 02:51:25 +0000"
-    },
-    "done": true
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
@@ -101,35 +125,17 @@
     },
     "done": false
   },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-29 02:51:25 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
       "log_spam_fixer": "2024-12-29 02:51:26 +0000"
     },
     "done": false
   },
-  "rpgsmw:choose_your_class": {
-    "criteria": {
-      "choose_your_class_0": "2024-12-29 02:51:24 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2024-12-29 02:51:26 +0000"
     },
     "done": false
-  },
-  "tombstone:adventure/christmas": {
-    "criteria": {
-      "coded_trigger": "2024-12-29 02:51:24 +0000"
-    },
-    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -155,12 +161,6 @@
       "log_spam_fixer": "2024-12-29 02:51:26 +0000"
     },
     "done": false
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2024-12-29 02:51:25 +0000"
-    },
-    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
