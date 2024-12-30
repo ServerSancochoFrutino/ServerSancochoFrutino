@@ -1164,3 +1164,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [30Dec2024 03:56:02.480] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
 [30Dec2024 03:56:42.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
 [30Dec2024 03:56:43.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported juandpl18 to MrPink007]
+[30Dec2024 03:56:57.766] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/74352, l='ServerLevel[world]', x=-82.13, y=68.00, z=143.85] died: Zombie Player was slain by MrPink007
+[30Dec2024 03:57:19.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported Xx0bama228xX to juandpl18]
+[30Dec2024 03:57:20.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported Xx0bama228xX to MrPink007]
+[30Dec2024 03:58:57.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX fell from a high place
+[30Dec2024 03:58:57.887] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[30Dec2024 03:59:22.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was killed
+[30Dec2024 03:59:22.206] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[30Dec2024 03:59:22.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Killed MrPink007]
+[30Dec2024 03:59:22.207] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[30Dec2024 03:59:52.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/75497, l='ServerLevel[world]', x=-187.82, y=70.00, z=138.07] died: Zombie Player was slain by Iron Golem
+[30Dec2024 04:01:17.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported juandpl18 to Xx0bama228xX]
+[30Dec2024 04:01:36.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported juandpl18 to MrPink007]
+[30Dec2024 04:02:40.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Hot Stuff]
+[30Dec2024 04:02:43.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[30Dec2024 04:04:44.527] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-41, y=-44, z=544}
+[30Dec2024 04:05:02.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to MrPink007]
