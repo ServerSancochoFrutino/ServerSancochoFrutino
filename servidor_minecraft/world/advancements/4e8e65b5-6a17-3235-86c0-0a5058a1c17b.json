@@ -61,50 +61,49 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:15:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:15:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:15:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2024-12-30 05:15:55 +0000",
-      "log_spam_fixer": "2024-12-30 05:15:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:15:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:15:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:15:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:15:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
     },
     "done": false
   },
@@ -116,7 +115,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:15:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
     },
     "done": false
   },
@@ -128,7 +127,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:15:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
     },
     "done": false
   },
@@ -153,13 +152,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:15:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:15:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
     },
     "done": false
   },
@@ -196,6 +195,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-30 02:26:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
     },
     "done": true
   },
@@ -247,6 +252,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2024-12-30 03:04:14 +0000"
@@ -256,6 +267,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 02:29:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
     },
     "done": true
   },
@@ -310,6 +327,12 @@
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2024-12-30 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
     },
     "done": true
   },
@@ -376,6 +399,12 @@
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2024-12-30 03:59:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
     },
     "done": true
   },
@@ -559,6 +588,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-30 02:27:57 +0000"
@@ -580,6 +615,18 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2024-12-30 03:59:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
     },
     "done": true
   },
@@ -631,6 +678,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-30 03:26:25 +0000"
@@ -652,6 +705,12 @@
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2024-12-30 02:36:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
     },
     "done": true
   },
@@ -730,6 +789,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:35:26 +0000"
@@ -793,6 +858,18 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-12-30 02:41:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
     },
     "done": true
   },
@@ -970,6 +1047,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-30 05:06:18 +0000"
@@ -1018,6 +1101,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-30 03:32:48 +0000"
@@ -1045,6 +1140,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-12-30 02:27:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
     },
     "done": true
   },
@@ -1099,6 +1200,12 @@
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-30 03:59:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
     },
     "done": true
   },
@@ -1216,6 +1323,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-30 03:59:39 +0000"
@@ -1258,6 +1371,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 03:20:44 +0000"
@@ -1288,6 +1413,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-30 05:14:31 +0000"
@@ -1303,6 +1434,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-30 02:26:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
     },
     "done": true
   },
@@ -1363,6 +1500,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:35:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
     },
     "done": true
   },
@@ -1540,6 +1683,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-30 03:34:24 +0000"
@@ -1606,6 +1761,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2024-12-30 02:26:35 +0000"
@@ -1660,6 +1821,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-30 03:32:48 +0000"
@@ -1669,6 +1836,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2024-12-30 03:06:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
     },
     "done": true
   },
@@ -1746,6 +1919,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-30 05:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-30 03:32:48 +0000"
@@ -1761,6 +1946,12 @@
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2024-12-30 05:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-30 05:24:14 +0000"
     },
     "done": true
   },
