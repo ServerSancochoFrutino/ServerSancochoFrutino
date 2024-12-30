@@ -97,7 +97,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 04:45:38 +0000"
+      "log_spam_fixer": "2024-12-30 05:05:38 +0000"
     },
     "done": false
   },
@@ -151,7 +151,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 04:45:38 +0000"
+      "log_spam_fixer": "2024-12-30 05:05:38 +0000"
     },
     "done": false
   },
@@ -451,7 +451,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 04:45:38 +0000"
+      "log_spam_fixer": "2024-12-30 05:05:38 +0000"
     },
     "done": false
   },
@@ -547,9 +547,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 04:45:38 +0000"
+      "requirement": "2024-12-30 05:05:40 +0000",
+      "log_spam_fixer": "2024-12-30 05:05:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
@@ -557,9 +558,21 @@
     },
     "done": true
   },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2024-12-30 04:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-30 02:13:02 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-30 05:00:08 +0000"
     },
     "done": true
   },
@@ -834,7 +847,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 04:45:38 +0000"
+      "log_spam_fixer": "2024-12-30 05:05:38 +0000"
     },
     "done": false
   },
@@ -889,6 +902,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-30 03:09:02 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-12-30 05:00:08 +0000"
     },
     "done": true
   },
@@ -1002,7 +1021,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 04:45:38 +0000"
+      "log_spam_fixer": "2024-12-30 05:05:38 +0000"
     },
     "done": false
   },
@@ -1122,7 +1141,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 04:45:38 +0000"
+      "log_spam_fixer": "2024-12-30 05:05:38 +0000"
     },
     "done": false
   },
@@ -1140,7 +1159,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 04:45:38 +0000"
+      "log_spam_fixer": "2024-12-30 05:05:38 +0000"
     },
     "done": false
   },
@@ -1368,7 +1387,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 04:45:38 +0000"
+      "log_spam_fixer": "2024-12-30 05:05:38 +0000"
     },
     "done": false
   },
@@ -1383,6 +1402,12 @@
       "log_spam_fixer": "2024-12-30 02:00:53 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-30 04:51:38 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
@@ -1465,6 +1490,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-30 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 04:59:17 +0000"
     },
     "done": true
   },
@@ -1566,7 +1597,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 04:45:38 +0000"
+      "log_spam_fixer": "2024-12-30 05:05:38 +0000"
     },
     "done": false
   },
@@ -1603,6 +1634,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-30 02:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-30 05:00:08 +0000"
     },
     "done": true
   },
@@ -1711,6 +1748,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-30 03:37:57 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-12-30 05:00:08 +0000"
     },
     "done": true
   },
@@ -1838,10 +1881,13 @@
     "criteria": {
       "minecraft:deep_ocean": "2024-12-30 02:32:44 +0000",
       "minecraft:sunflower_plains": "2024-12-30 02:23:25 +0000",
+      "minecraft:savanna_plateau": "2024-12-30 04:56:39 +0000",
       "minecraft:beach": "2024-12-30 02:02:55 +0000",
       "minecraft:lukewarm_ocean": "2024-12-30 03:25:17 +0000",
       "minecraft:river": "2024-12-30 02:02:58 +0000",
+      "minecraft:stony_shore": "2024-12-30 04:55:35 +0000",
       "minecraft:dripstone_caves": "2024-12-30 03:36:54 +0000",
+      "minecraft:cold_ocean": "2024-12-30 05:03:21 +0000",
       "minecraft:forest": "2024-12-30 02:01:21 +0000",
       "minecraft:desert": "2024-12-30 03:34:07 +0000",
       "minecraft:ocean": "2024-12-30 02:30:59 +0000",
@@ -1868,7 +1914,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 04:45:38 +0000"
+      "log_spam_fixer": "2024-12-30 05:05:38 +0000"
     },
     "done": false
   },
@@ -1910,7 +1956,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 04:45:38 +0000"
+      "log_spam_fixer": "2024-12-30 05:05:38 +0000"
     },
     "done": false
   },
@@ -1964,6 +2010,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-30 04:56:04 +0000",
       "beef": "2024-12-30 02:34:18 +0000",
       "porkchop": "2024-12-30 02:50:49 +0000",
       "apple": "2024-12-30 02:07:22 +0000",
@@ -1975,6 +2022,12 @@
       "enchanted_golden_apple": "2024-12-30 03:01:42 +0000"
     },
     "done": false
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-30 05:00:08 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
@@ -2045,6 +2098,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-30 02:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-30 05:00:08 +0000"
     },
     "done": true
   },
