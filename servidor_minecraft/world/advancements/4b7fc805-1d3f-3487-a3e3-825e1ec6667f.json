@@ -73,7 +73,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:38 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:37 +0000"
     },
     "done": false
   },
@@ -103,7 +103,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:38 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:37 +0000"
     },
     "done": false
   },
@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-30 03:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-30 02:42:08 +0000"
@@ -325,7 +331,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:38 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:37 +0000"
     },
     "done": false
   },
@@ -373,9 +379,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:38 +0000"
+      "requirement": "2024-12-30 03:11:00 +0000",
+      "log_spam_fixer": "2024-12-30 03:10:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
@@ -386,6 +393,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-30 02:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-30 03:09:02 +0000"
     },
     "done": true
   },
@@ -479,6 +492,12 @@
     },
     "done": true
   },
+  "rpgsmw:miphril": {
+    "criteria": {
+      "miphril_0": "2024-12-30 03:03:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-30 02:42:08 +0000"
@@ -494,6 +513,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-30 02:32:13 +0000",
+      "minecraft:spider": "2024-12-30 03:11:03 +0000",
+      "minecraft:cave_spider": "2024-12-30 03:09:01 +0000",
       "minecraft:zombie": "2024-12-30 02:15:46 +0000",
       "minecraft:zombie_villager": "2024-12-30 02:22:06 +0000"
     },
@@ -553,6 +574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-30 03:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-30 02:02:17 +0000"
@@ -597,7 +624,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:38 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:37 +0000"
     },
     "done": false
   },
@@ -616,6 +643,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-30 02:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-30 03:09:02 +0000"
     },
     "done": true
   },
@@ -693,7 +726,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:38 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:37 +0000"
     },
     "done": false
   },
@@ -789,7 +822,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:38 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:37 +0000"
     },
     "done": false
   },
@@ -801,7 +834,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:38 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:37 +0000"
     },
     "done": false
   },
@@ -969,7 +1002,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:38 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:37 +0000"
     },
     "done": false
   },
@@ -1113,7 +1146,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:38 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:37 +0000"
     },
     "done": false
   },
@@ -1210,6 +1243,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-30 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-30 03:09:02 +0000"
     },
     "done": true
   },
@@ -1325,7 +1364,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:38 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:37 +0000"
     },
     "done": false
   },
@@ -1367,7 +1406,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:38 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:37 +0000"
     },
     "done": false
   },
@@ -1408,7 +1447,8 @@
       "apple": "2024-12-30 02:07:22 +0000",
       "bread": "2024-12-30 02:06:25 +0000",
       "golden_apple": "2024-12-30 02:33:59 +0000",
-      "glow_berries": "2024-12-30 02:28:12 +0000"
+      "glow_berries": "2024-12-30 02:28:12 +0000",
+      "enchanted_golden_apple": "2024-12-30 03:01:42 +0000"
     },
     "done": false
   },
@@ -1469,6 +1509,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-30 02:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-30 03:09:02 +0000"
     },
     "done": true
   },

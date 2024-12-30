@@ -6480,3 +6480,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [30Dec2024 03:04:14.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Suit Up]
 [30Dec2024 03:05:32.406] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-67, y=-16, z=533}
 [30Dec2024 03:05:42.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Isn't It Iron Pick]
+[30Dec2024 03:06:27.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:06:27.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:07:00.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Isn't It Iron Pick]
+[30Dec2024 03:07:11.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Iron Golem
+[30Dec2024 03:07:11.401] [Server thread/WARN] [tombstone/]: The drop event of the player juandpl18 was canceled by another mod
+[30Dec2024 03:07:11.418] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[30Dec2024 03:07:14.299] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['juandpl18'/38519, l='ServerLevel[world]', x=-149.65, y=68.00, z=126.35] died: Zombie Player was slain by Iron Golem
+[30Dec2024 03:09:07.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Rotten to the Core]
+[30Dec2024 03:09:54.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [A Seedy Place]
+[30Dec2024 03:10:05.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by The Moonflower
+[30Dec2024 03:10:05.758] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xx0bama228xX was created at position [x:-104, y:71, z:96, dim:minecraft:overworld]
+[30Dec2024 03:10:05.775] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[30Dec2024 03:10:29.507] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-908, y=-33, z=310}
+[30Dec2024 03:10:59.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX withered away whilst fighting Nightmare Stalker
+[30Dec2024 03:10:59.568] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xx0bama228xX was created at position [x:-118, y:69, z:101, dim:minecraft:overworld]
+[30Dec2024 03:10:59.570] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[30Dec2024 03:11:27.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:11:27.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:12:17.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has reached the goal [Fighting Nightmares]
+[30Dec2024 03:12:21.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to Xx0bama228xX]
+[30Dec2024 03:13:15.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has reached the goal [Exorcism]
+[30Dec2024 03:13:41.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Best Friends Forever]
+[30Dec2024 03:13:41.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Stay Out of my Peripheral!]
+[30Dec2024 03:13:44.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Diamonds!]
+[30Dec2024 03:13:53.662] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/892, l='ServerLevel[world]', x=-97.50, y=67.00, z=129.67] died, message: 'Unemployed was slain by The Swarmer'
+[30Dec2024 03:14:21.609] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-754, y=-38, z=284}
+[30Dec2024 03:14:22.150] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-900, y=-52, z=261}
+[30Dec2024 03:14:38.659] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-722, y=-19, z=212}
+[30Dec2024 03:15:06.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/889, l='ServerLevel[world]', x=-187.50, y=59.00, z=64.70] died, message: 'Unemployed was slain by Zombie'
+[30Dec2024 03:15:11.608] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/43898, l='ServerLevel[world]', x=-928.39, y=62.42, z=241.50]
+[30Dec2024 03:15:11.609] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/43899, l='ServerLevel[world]', x=-928.39, y=62.42, z=241.50]
+[30Dec2024 03:15:11.609] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/43900, l='ServerLevel[world]', x=-928.39, y=62.42, z=241.50]
+[30Dec2024 03:15:11.610] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/43901, l='ServerLevel[world]', x=-928.39, y=62.42, z=241.50]
+[30Dec2024 03:15:11.613] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/43902, l='ServerLevel[world]', x=-928.39, y=62.42, z=241.50]
+[30Dec2024 03:15:47.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by Siamese Skeleton
+[30Dec2024 03:15:47.526] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xx0bama228xX was created at position [x:-381, y:-13, z:395, dim:minecraft:overworld]
+[30Dec2024 03:15:47.534] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved

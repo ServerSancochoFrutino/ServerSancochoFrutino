@@ -854,7 +854,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cod": "2024-12-30 02:22:54 +0000"
+      "cod": "2024-12-30 02:22:54 +0000",
+      "carrot": "2024-12-30 03:06:16 +0000"
     },
     "done": false
   },
@@ -872,80 +873,92 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:37 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:37 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:37 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2024-12-30 03:01:14 +0000",
-      "log_spam_fixer": "2024-12-30 03:00:37 +0000"
+      "requirement": "2024-12-30 03:10:51 +0000",
+      "log_spam_fixer": "2024-12-30 03:10:38 +0000"
     },
     "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:37 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:37 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:37 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:37 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:37 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:37 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:37 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:00:37 +0000"
+      "log_spam_fixer": "2024-12-30 03:10:38 +0000"
     },
     "done": false
   },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-30 03:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-30 03:07:00 +0000"
     },
     "done": true
   },
@@ -985,6 +998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-30 03:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-30 02:59:26 +0000"
@@ -994,6 +1013,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-30 03:06:25 +0000"
     },
     "done": true
   },
@@ -1015,15 +1040,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 03:07:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:59:26 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_metal_boots": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 03:09:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-30 03:06:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_helmet": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 03:10:50 +0000"
     },
     "done": true
   },
@@ -1042,6 +1091,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-30 03:06:25 +0000"
     },
     "done": true
   },
@@ -1069,6 +1124,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-30 03:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-30 03:06:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:59:26 +0000"
@@ -1084,6 +1151,18 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:59:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 03:08:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2024-12-30 03:06:25 +0000"
     },
     "done": true
   },
