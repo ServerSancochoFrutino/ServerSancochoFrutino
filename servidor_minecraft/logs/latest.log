@@ -1960,3 +1960,7 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [30Dec2024 05:36:41.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has reached the goal [Bone Crusher]
 [30Dec2024 05:36:54.201] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
 [30Dec2024 05:36:54.201] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 05:40:37.050] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-5244, y=-17, z=942}
+[30Dec2024 05:40:45.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Deceived Hopes]
+[30Dec2024 05:41:42.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to Xx0bama228xX]
+[30Dec2024 05:44:31.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [It Belongs in a Museum]
