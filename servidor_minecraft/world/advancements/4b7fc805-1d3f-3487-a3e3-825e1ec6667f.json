@@ -97,7 +97,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:35:37 +0000"
     },
     "done": false
   },
@@ -151,7 +151,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:35:37 +0000"
     },
     "done": false
   },
@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-30 05:26:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:13:02 +0000"
@@ -449,9 +455,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-30 05:35:44 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:35:37 +0000"
     },
     "done": false
   },
@@ -547,9 +559,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
+      "requirement": "2024-12-30 05:35:50 +0000",
+      "log_spam_fixer": "2024-12-30 05:35:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
@@ -617,6 +630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-30 05:26:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:13:02 +0000"
@@ -626,6 +645,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-30 02:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-30 05:35:44 +0000"
     },
     "done": true
   },
@@ -778,6 +803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-30 05:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-30 02:06:43 +0000"
@@ -846,7 +877,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:35:37 +0000"
     },
     "done": false
   },
@@ -1026,7 +1057,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:35:37 +0000"
     },
     "done": false
   },
@@ -1152,7 +1183,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:35:37 +0000"
     },
     "done": false
   },
@@ -1170,7 +1201,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:35:37 +0000"
     },
     "done": false
   },
@@ -1398,7 +1429,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:35:37 +0000"
     },
     "done": false
   },
@@ -1614,7 +1645,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:35:37 +0000"
     },
     "done": false
   },
@@ -1663,6 +1694,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-30 02:08:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-30 05:35:44 +0000"
     },
     "done": true
   },
@@ -1717,6 +1754,12 @@
   "rpgsmw:choose_your_class": {
     "criteria": {
       "choose_your_class_0": "2024-12-30 02:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-30 05:29:54 +0000"
     },
     "done": true
   },
@@ -1902,6 +1945,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-30 05:29:31 +0000",
       "minecraft:deep_ocean": "2024-12-30 02:32:44 +0000",
       "minecraft:sunflower_plains": "2024-12-30 02:23:25 +0000",
       "minecraft:savanna_plateau": "2024-12-30 04:56:39 +0000",
@@ -1941,7 +1985,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:35:37 +0000"
     },
     "done": false
   },
@@ -1989,7 +2033,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 05:25:37 +0000"
+      "log_spam_fixer": "2024-12-30 05:35:37 +0000"
     },
     "done": false
   },
@@ -2246,6 +2290,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-30 04:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-30 05:35:44 +0000"
     },
     "done": true
   },
