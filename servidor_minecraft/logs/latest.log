@@ -1,21 +1,21 @@
-[29Dec2024 02:57:44.279] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[29Dec2024 02:57:44.283] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[29Dec2024 02:57:44.872] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[29Dec2024 02:57:44.912] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerSancochoFrutino/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[29Dec2024 02:57:45.248] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerSancochoFrutino/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[29Dec2024 02:57:45.250] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerSancochoFrutino/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Dec2024 02:57:45.251] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerSancochoFrutino/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Dec2024 02:57:45.252] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerSancochoFrutino/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Dec2024 02:57:45.424] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[29Dec2024 02:57:47.666] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[29Dec2024 02:57:47.721] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
-[29Dec2024 02:57:47.724] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
-[29Dec2024 02:57:47.863] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[29Dec2024 02:57:47.866] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[29Dec2024 02:57:48.012] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Dec2024 02:57:48.018] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Dec2024 02:57:48.025] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Dec2024 02:57:48.066] [main/INFO] [Puzzles Lib/]: Loading 50 mods:
+[30Dec2024 01:55:35.038] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[30Dec2024 01:55:35.045] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[30Dec2024 01:55:41.469] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[30Dec2024 01:55:41.579] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerSancochoFrutino/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[30Dec2024 01:55:42.121] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerSancochoFrutino/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 01:55:42.123] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerSancochoFrutino/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 01:55:42.124] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerSancochoFrutino/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 01:55:42.125] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerSancochoFrutino/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 01:55:42.350] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[30Dec2024 01:55:45.317] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30Dec2024 01:55:45.352] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[30Dec2024 01:55:45.354] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[30Dec2024 01:55:45.523] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[30Dec2024 01:55:45.525] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[30Dec2024 01:55:45.661] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Dec2024 01:55:45.664] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Dec2024 01:55:45.669] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Dec2024 01:55:45.733] [main/INFO] [Puzzles Lib/]: Loading 50 mods:
 	- alexscaves 2.0.2
 	- appleskin 2.5.1+mc1.20.1
 	- aquamirae 6.API15
@@ -66,16 +66,16 @@
 	- tombstone 8.8.6
 	- undead_revamp2 1.0.0
 	- visualworkbench 8.0.0
-[29Dec2024 02:57:48.092] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Dec2024 02:57:48.099] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Dec2024 02:57:49.835] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[29Dec2024 02:57:55.617] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[30Dec2024 01:55:45.737] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Dec2024 01:55:45.747] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Dec2024 01:55:48.014] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[30Dec2024 01:55:57.586] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[29Dec2024 02:57:56.195] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
-[29Dec2024 02:57:56.201] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[29Dec2024 02:57:56.232] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[29Dec2024 02:57:56.255] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@5e13f156 on thread Thread[#33,modloading-worker-0,5,main]
-[29Dec2024 02:57:56.255] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[30Dec2024 01:55:58.310] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[30Dec2024 01:55:58.333] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[30Dec2024 01:55:58.333] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[30Dec2024 01:55:58.358] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@7ab1127c on thread Thread[#34,modloading-worker-0,5,main]
+[30Dec2024 01:55:58.359] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
@@ -119,32 +119,37 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[29Dec2024 02:57:56.270] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[29Dec2024 02:57:56.483] [modloading-worker-0/INFO] [hordes/]: Trying to load common config
-[29Dec2024 02:57:56.499] [modloading-worker-0/INFO] [hordes/]: Trying to load client config
-[29Dec2024 02:57:56.514] [modloading-worker-0/INFO] [hordes/]: Config files are up to date, skipping data/asset generation
-[29Dec2024 02:57:56.564] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[29Dec2024 02:57:56.565] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[29Dec2024 02:57:56.567] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[29Dec2024 02:57:56.569] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[29Dec2024 02:57:56.576] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[29Dec2024 02:57:56.578] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[29Dec2024 02:57:56.579] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[29Dec2024 02:57:56.580] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[29Dec2024 02:57:56.690] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
-[29Dec2024 02:57:56.731] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[29Dec2024 02:57:56.731] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[29Dec2024 02:57:57.251] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
-[29Dec2024 02:57:57.259] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
-[29Dec2024 02:57:57.260] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
-[29Dec2024 02:57:57.830] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[29Dec2024 02:57:57.842] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[29Dec2024 02:58:00.610] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[29Dec2024 02:58:00.619] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[29Dec2024 02:58:00.999] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
-[29Dec2024 02:58:01.293] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[29Dec2024 02:58:01.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[29Dec2024 02:58:01.306] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[30Dec2024 01:55:58.361] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[30Dec2024 01:55:58.575] [modloading-worker-0/INFO] [hordes/]: Trying to load common config
+[30Dec2024 01:55:58.582] [modloading-worker-0/INFO] [hordes/]: Trying to load client config
+[30Dec2024 01:55:58.594] [modloading-worker-0/INFO] [hordes/]: Config files are up to date, skipping data/asset generation
+[30Dec2024 01:55:58.720] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[30Dec2024 01:55:58.722] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[30Dec2024 01:55:58.724] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[30Dec2024 01:55:58.737] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[30Dec2024 01:55:58.740] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[30Dec2024 01:55:58.741] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[30Dec2024 01:55:58.750] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[30Dec2024 01:55:58.751] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[30Dec2024 01:55:58.788] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[30Dec2024 01:55:58.847] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[30Dec2024 01:55:58.847] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[30Dec2024 01:55:59.564] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[30Dec2024 01:55:59.575] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[30Dec2024 01:55:59.602] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[30Dec2024 01:56:00.188] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[30Dec2024 01:56:00.214] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[30Dec2024 01:56:03.940] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[30Dec2024 01:56:03.950] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[30Dec2024 01:56:04.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[30Dec2024 01:56:04.796] [main/INFO] [journeymap/]: Initializing Packet Registries
+[30Dec2024 01:56:04.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[30Dec2024 01:56:04.950] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[30Dec2024 01:56:04.986] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[30Dec2024 01:56:05.009] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[30Dec2024 01:56:05.014] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[30Dec2024 01:56:05.018] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[30Dec2024 01:56:05.056] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -159,29 +164,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[29Dec2024 02:58:01.308] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[29Dec2024 02:58:01.345] [main/INFO] [journeymap/]: Initializing Packet Registries
-[29Dec2024 02:58:01.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[29Dec2024 02:58:01.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/The-Hordes/1.20/update.json
-[29Dec2024 02:58:01.539] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[29Dec2024 02:58:01.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Found status: UP_TO_DATE Current: 1.5.4 Target: null
-[29Dec2024 02:58:01.550] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[29Dec2024 02:58:01.562] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[29Dec2024 02:58:01.563] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[29Dec2024 02:58:01.568] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[29Dec2024 02:58:01.575] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[29Dec2024 02:58:01.578] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[29Dec2024 02:58:02.348] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.7 Target: 1.20.1-1.4.8
-[29Dec2024 02:58:02.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Dec2024 02:58:02.538] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[29Dec2024 02:58:02.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[29Dec2024 02:58:02.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
-[29Dec2024 02:58:02.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/Atlas-Lib/1.20/update.json
-[29Dec2024 02:58:02.564] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Found status: UP_TO_DATE Current: 1.1.12 Target: null
-[29Dec2024 02:58:02.565] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[29Dec2024 02:58:02.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
-[29Dec2024 02:58:02.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[29Dec2024 02:58:02.587] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[30Dec2024 01:56:05.057] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[30Dec2024 01:56:05.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[30Dec2024 01:56:05.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/The-Hordes/1.20/update.json
+[30Dec2024 01:56:05.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Found status: UP_TO_DATE Current: 1.5.4 Target: null
+[30Dec2024 01:56:05.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[30Dec2024 01:56:05.351] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[30Dec2024 01:56:05.351] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[30Dec2024 01:56:06.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.7 Target: 1.20.1-1.4.8
+[30Dec2024 01:56:06.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30Dec2024 01:56:06.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[30Dec2024 01:56:06.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[30Dec2024 01:56:06.477] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
+[30Dec2024 01:56:06.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/Atlas-Lib/1.20/update.json
+[30Dec2024 01:56:06.637] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Found status: UP_TO_DATE Current: 1.1.12 Target: null
+[30Dec2024 01:56:06.637] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[30Dec2024 01:56:06.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[30Dec2024 01:56:06.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[30Dec2024 01:56:06.667] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -196,13 +196,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[29Dec2024 02:58:02.589] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
-[29Dec2024 02:58:02.648] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
-[29Dec2024 02:58:04.147] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[29Dec2024 02:58:05.797] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerSancochoFrutino/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/assets/.mcassetsroot' uses unexpected schema
-[29Dec2024 02:58:05.797] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerSancochoFrutino/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/data/.mcassetsroot' uses unexpected schema
-[29Dec2024 02:58:07.568] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.8.6.jar
-[29Dec2024 02:58:08.509] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:bk
+[30Dec2024 01:56:06.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
+[30Dec2024 01:56:06.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
+[30Dec2024 01:56:08.250] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30Dec2024 01:56:10.236] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerSancochoFrutino/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/assets/.mcassetsroot' uses unexpected schema
+[30Dec2024 01:56:10.236] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerSancochoFrutino/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/data/.mcassetsroot' uses unexpected schema
+[30Dec2024 01:56:12.500] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.8.6.jar
+[30Dec2024 01:56:13.688] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:bk
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23198!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23198!/:?]
@@ -233,7 +233,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Dec2024 02:58:08.521] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:nca
+[30Dec2024 01:56:13.713] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:nca
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23198!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23198!/:?]
@@ -264,7 +264,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Dec2024 02:58:08.523] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:ncc
+[30Dec2024 01:56:13.715] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:ncc
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23198!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23198!/:?]
@@ -295,7 +295,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Dec2024 02:58:08.535] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:pb
+[30Dec2024 01:56:13.734] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:pb
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23198!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23198!/:?]
@@ -326,7 +326,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Dec2024 02:58:08.552] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:b
+[30Dec2024 01:56:13.761] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:b
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23198!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23198!/:?]
@@ -357,160 +357,186 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Dec2024 02:58:08.556] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[29Dec2024 02:58:08.665] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2282 advancements
-[29Dec2024 02:58:08.684] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[29Dec2024 02:58:08.690] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[29Dec2024 02:58:08.691] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[30Dec2024 01:56:13.772] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[30Dec2024 01:56:13.961] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2282 advancements
+[30Dec2024 01:56:13.995] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[30Dec2024 01:56:14.009] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[30Dec2024 01:56:14.012] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
-[29Dec2024 02:58:08.695] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 35, min day 0 and max day 20
-[29Dec2024 02:58:08.696] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_villager as entity.minecraft.zombie_villager with weight 1, min day 0 and max day 20
-[29Dec2024 02:58:08.696] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 20 and max day 40
-[29Dec2024 02:58:08.696] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 40, min day 20 and max day 40
-[29Dec2024 02:58:08.697] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
-[29Dec2024 02:58:08.697] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 40 and max day 40
-[29Dec2024 02:58:08.698] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 0
-[29Dec2024 02:58:08.698] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 25, min day 50 and max day 0
-[29Dec2024 02:58:08.698] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 50 and max day 0
-[29Dec2024 02:58:08.699] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 50 and max day 0
-[29Dec2024 02:58:08.699] [main/INFO] [hordes/]: loaded horde table hordes:default
-[29Dec2024 02:58:08.699] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 40, min day 0 and max day 20
-[29Dec2024 02:58:08.700] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
-[29Dec2024 02:58:08.700] [main/INFO] [hordes/]: loaded horde table hordes:drowned
-[29Dec2024 02:58:08.701] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 20, min day 0 and max day 20
-[29Dec2024 02:58:08.701] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 20 and max day 30
-[29Dec2024 02:58:08.702] [main/INFO] [hordes/]: Loaded entity minecraft:spider as entity.minecraft.spider with weight 15, min day 20 and max day 30
-[29Dec2024 02:58:08.703] [main/INFO] [hordes/]: Loaded entity minecraft:creeper as entity.minecraft.creeper with weight 5, min day 30 and max day 30
-[29Dec2024 02:58:08.703] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 20, min day 30 and max day 50
-[29Dec2024 02:58:08.704] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 40 and max day 50
-[29Dec2024 02:58:08.704] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 10, min day 40 and max day 50
-[29Dec2024 02:58:08.705] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 40 and max day 50
-[29Dec2024 02:58:08.705] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 10, min day 40 and max day 50
-[29Dec2024 02:58:08.706] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 50
-[29Dec2024 02:58:08.707] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 40 and max day 50
-[29Dec2024 02:58:08.708] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 50 and max day 0
-[29Dec2024 02:58:08.708] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 5, min day 50 and max day 50
-[29Dec2024 02:58:08.709] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 50 and max day 50
-[29Dec2024 02:58:08.710] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 5, min day 40 and max day 40
-[29Dec2024 02:58:08.710] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 50
-[29Dec2024 02:58:08.711] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 5, min day 50 and max day 50
-[29Dec2024 02:58:08.711] [main/INFO] [hordes/]: Loaded entity minecraft:piglin_brute as entity.minecraft.piglin_brute with weight 10, min day 60 and max day 0
-[29Dec2024 02:58:08.712] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 15, min day 60 and max day 0
-[29Dec2024 02:58:08.713] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 5, min day 60 and max day 0
-[29Dec2024 02:58:08.714] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 60 and max day 0
-[29Dec2024 02:58:08.714] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 3, min day 60 and max day 0
-[29Dec2024 02:58:08.715] [main/INFO] [hordes/]: loaded horde table hordes:mixed_mobs
-[29Dec2024 02:58:08.715] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 15, min day 0 and max day 0
-[29Dec2024 02:58:08.716] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 0 and max day 0
-[29Dec2024 02:58:08.716] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 20 and max day 0
-[29Dec2024 02:58:08.717] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 30 and max day 40
-[29Dec2024 02:58:08.717] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 3, min day 40 and max day 40
-[29Dec2024 02:58:08.718] [main/INFO] [hordes/]: Loaded entity minecraft:illusioner as entity.minecraft.illusioner with weight 5, min day 50 and max day 0
-[29Dec2024 02:58:08.719] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 50 and max day 0
-[29Dec2024 02:58:08.719] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 0
-[29Dec2024 02:58:08.719] [main/INFO] [hordes/]: loaded horde table hordes:illagers
-[29Dec2024 02:58:08.719] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 0 and max day 20
-[29Dec2024 02:58:08.720] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 20, min day 0 and max day 30
-[29Dec2024 02:58:08.720] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 20 and max day 50
-[29Dec2024 02:58:08.720] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 20 and max day 0
-[29Dec2024 02:58:08.720] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 40 and max day 0
-[29Dec2024 02:58:08.722] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 40 and max day 0
-[29Dec2024 02:58:08.723] [main/INFO] [hordes/]: loaded horde table hordes:skeletons
-[29Dec2024 02:58:08.723] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
-[29Dec2024 02:58:08.724] [main/INFO] [hordes/]: loaded horde table hordes:fallback
-[29Dec2024 02:58:08.729] [main/INFO] [hordes/]: loaded horde script hordes:default
-[29Dec2024 02:58:08.731] [main/INFO] [hordes/]: Loading conversion tables
-[29Dec2024 02:58:08.732] [main/INFO] [hordes/]: Loading conversion table hordes:infection_conversions
-[29Dec2024 02:58:08.734] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.horse to entity.minecraft.zombie_horse with chance of 0.65
-[29Dec2024 02:58:08.735] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin to entity.minecraft.zombified_piglin with chance of 0.75
-[29Dec2024 02:58:08.737] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin_brute to entity.minecraft.zombified_piglin{Attributes:[{Base:50.0f,Name:"generic.max_health"}],chat_name:"entity.hordes.ZombifiedPiglinBrute.name",texture:"hordes:textures/entity/zombified_piglin_brute.png"} with chance of 0.35
-[29Dec2024 02:58:08.737] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.hoglin to entity.minecraft.zoglin with chance of 0.15
-[29Dec2024 02:58:08.738] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.wandering_trader to entity.minecraft.zombie_villager{VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWanderingTrader.name",texture:"hordes:textures/entity/zombie_wandering_trader.png"} with chance of 0.75
-[29Dec2024 02:58:08.739] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.pillager to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombiePillager.name",texture:"hordes:textures/entity/zombie_pillager.png"} with chance of 0.75
-[29Dec2024 02:58:08.740] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.vindicator to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieVindicator.name",texture:"hordes:textures/entity/zombie_vindicator.png"} with chance of 0.35
-[29Dec2024 02:58:08.740] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.evoker to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieEvoker.name",texture:"hordes:textures/entity/zombie_evoker.png"} with chance of 0.5
-[29Dec2024 02:58:08.741] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.illusioner to entity.minecraft.zombie_villager{Attributes:[{Base:32.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieIllusioner.name",texture:"hordes:textures/entity/zombie_illusioner.png"} with chance of 0.15
-[29Dec2024 02:58:08.741] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.witch to entity.minecraft.zombie_villager{Attributes:[{Base:26.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWitch.name",texture:"hordes:textures/entity/zombie_witch.png"} with chance of 0.25
-[29Dec2024 02:58:08.742] [main/INFO] [hordes/]: Loading immunity item list
-[29Dec2024 02:58:08.742] [main/INFO] [hordes/]: Loading immunity item list hordes:immunity_items
-[29Dec2024 02:58:08.743] [main/INFO] [hordes/]: Loaded immunity item minecraft:enchanted_golden_apple with duration 150
-[29Dec2024 02:58:08.746] [main/INFO] [hordes/]: Loading wearables protection list
-[29Dec2024 02:58:08.746] [main/INFO] [hordes/]: Loading wearables protection list hordes:immune_wearables
-[29Dec2024 02:58:08.747] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_boots with modifier 0.95
-[29Dec2024 02:58:08.748] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_leggings with modifier 0.95
-[29Dec2024 02:58:08.749] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_chestplate with modifier 0.95
-[29Dec2024 02:58:08.749] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_helmet with modifier 0.95
-[29Dec2024 02:58:08.749] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_boots with modifier 0.95
-[29Dec2024 02:58:08.750] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_leggings with modifier 0.95
-[29Dec2024 02:58:08.750] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_chestplate with modifier 0.95
-[29Dec2024 02:58:08.751] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_helmet with modifier 0.95
-[29Dec2024 02:58:08.752] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_boots with modifier 0.9
-[29Dec2024 02:58:08.753] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_leggings with modifier 0.9
-[29Dec2024 02:58:08.753] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_chestplate with modifier 0.9
-[29Dec2024 02:58:08.755] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_helmet with modifier 0.9
-[29Dec2024 02:58:08.755] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_boots with modifier 0.9
-[29Dec2024 02:58:08.756] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_leggings with modifier 0.9
-[29Dec2024 02:58:08.756] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_chestplate with modifier 0.9
-[29Dec2024 02:58:08.756] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_helmet with modifier 0.9
-[29Dec2024 02:58:08.758] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_boots with modifier 0.86
-[29Dec2024 02:58:08.758] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_leggings with modifier 0.86
-[29Dec2024 02:58:08.758] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_chestplate with modifier 0.86
-[29Dec2024 02:58:08.759] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_helmet with modifier 0.86
-[29Dec2024 02:58:08.759] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_boots with modifier 0.82
-[29Dec2024 02:58:08.760] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_leggings with modifier 0.82
-[29Dec2024 02:58:08.760] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_chestplate with modifier 0.82
-[29Dec2024 02:58:08.761] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_helmet with modifier 0.82
-[29Dec2024 02:58:08.761] [main/INFO] [hordes/]: Loaded wearable protection minecraft:turtle_helmet with modifier 0.75
-[29Dec2024 02:58:08.786] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[29Dec2024 02:58:10.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[29Dec2024 02:58:10.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Dec2024 02:58:10.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Dec2024 02:58:10.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Dec2024 02:58:10.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Dec2024 02:58:10.152] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29Dec2024 02:58:10.259] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[29Dec2024 02:58:10.259] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[29Dec2024 02:58:10.260] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[29Dec2024 02:58:10.260] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[29Dec2024 02:58:10.274] [Server thread/INFO] [quickstack/]: [quickstack]: Configuration changed.
-[29Dec2024 02:58:10.274] [Thread-1/INFO] [quickstack/]: [quickstack]: Configuration changed.
-[29Dec2024 02:58:10.275] [Thread-1/INFO] [quickstack/]: [quickstack]: Configuration changed.
-[29Dec2024 02:58:10.277] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Dec2024 02:58:10.278] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Dec2024 02:58:10.278] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Dec2024 02:58:10.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29Dec2024 02:58:14.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Dec2024 02:58:17.857] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 02:58:17.859] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 02:58:17.859] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 02:58:17.860] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 02:58:17.862] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 02:58:17.863] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 02:58:17.863] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 02:58:17.868] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 02:58:18.334] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[29Dec2024 02:58:18.835] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
-[29Dec2024 02:58:19.177] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4843 ms
-[29Dec2024 02:58:19.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.906s)! For help, type "help"
-[29Dec2024 02:58:19.212] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Dec2024 02:58:19.240] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[29Dec2024 02:58:19.241] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[29Dec2024 02:59:21.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juandpl18[/127.127.23.159:45515] logged in with entity id 969 at (-13.301316074745685, 66.0, 0.41325328923686)
-[29Dec2024 02:59:21.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 joined the game
-[29Dec2024 02:59:21.401] [Server thread/INFO] [Jade/]: Syncing config to juandpl18 (4e8e65b5-6a17-3235-86c0-0a5058a1c17b)
-[29Dec2024 02:59:56.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juandpl18 lost connection: Disconnected
-[29Dec2024 02:59:56.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 left the game
-[29Dec2024 03:14:41.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[29Dec2024 03:14:41.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[29Dec2024 03:14:41.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[29Dec2024 03:14:42.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[29Dec2024 03:14:43.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[29Dec2024 03:14:43.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[29Dec2024 03:14:43.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[29Dec2024 03:14:43.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[29Dec2024 03:14:43.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[29Dec2024 03:14:43.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[29Dec2024 03:14:43.576] [Server thread/INFO] [quickstack/]: [quickstack]: Configuration changed.
-[29Dec2024 03:14:43.578] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Dec2024 01:56:14.018] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 35, min day 0 and max day 20
+[30Dec2024 01:56:14.018] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_villager as entity.minecraft.zombie_villager with weight 1, min day 0 and max day 20
+[30Dec2024 01:56:14.019] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 20 and max day 40
+[30Dec2024 01:56:14.019] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 40, min day 20 and max day 40
+[30Dec2024 01:56:14.019] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
+[30Dec2024 01:56:14.019] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 40 and max day 40
+[30Dec2024 01:56:14.020] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 0
+[30Dec2024 01:56:14.020] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 25, min day 50 and max day 0
+[30Dec2024 01:56:14.020] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 50 and max day 0
+[30Dec2024 01:56:14.021] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 50 and max day 0
+[30Dec2024 01:56:14.021] [main/INFO] [hordes/]: loaded horde table hordes:default
+[30Dec2024 01:56:14.021] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 40, min day 0 and max day 20
+[30Dec2024 01:56:14.022] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
+[30Dec2024 01:56:14.022] [main/INFO] [hordes/]: loaded horde table hordes:drowned
+[30Dec2024 01:56:14.022] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 20, min day 0 and max day 20
+[30Dec2024 01:56:14.022] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 20 and max day 30
+[30Dec2024 01:56:14.023] [main/INFO] [hordes/]: Loaded entity minecraft:spider as entity.minecraft.spider with weight 15, min day 20 and max day 30
+[30Dec2024 01:56:14.024] [main/INFO] [hordes/]: Loaded entity minecraft:creeper as entity.minecraft.creeper with weight 5, min day 30 and max day 30
+[30Dec2024 01:56:14.026] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 20, min day 30 and max day 50
+[30Dec2024 01:56:14.029] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 40 and max day 50
+[30Dec2024 01:56:14.030] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 10, min day 40 and max day 50
+[30Dec2024 01:56:14.030] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 40 and max day 50
+[30Dec2024 01:56:14.031] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 10, min day 40 and max day 50
+[30Dec2024 01:56:14.031] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 50
+[30Dec2024 01:56:14.032] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 40 and max day 50
+[30Dec2024 01:56:14.032] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 50 and max day 0
+[30Dec2024 01:56:14.032] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 5, min day 50 and max day 50
+[30Dec2024 01:56:14.034] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 50 and max day 50
+[30Dec2024 01:56:14.035] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 5, min day 40 and max day 40
+[30Dec2024 01:56:14.035] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 50
+[30Dec2024 01:56:14.036] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 5, min day 50 and max day 50
+[30Dec2024 01:56:14.036] [main/INFO] [hordes/]: Loaded entity minecraft:piglin_brute as entity.minecraft.piglin_brute with weight 10, min day 60 and max day 0
+[30Dec2024 01:56:14.036] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 15, min day 60 and max day 0
+[30Dec2024 01:56:14.036] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 5, min day 60 and max day 0
+[30Dec2024 01:56:14.037] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 60 and max day 0
+[30Dec2024 01:56:14.038] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 3, min day 60 and max day 0
+[30Dec2024 01:56:14.039] [main/INFO] [hordes/]: loaded horde table hordes:mixed_mobs
+[30Dec2024 01:56:14.039] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 15, min day 0 and max day 0
+[30Dec2024 01:56:14.039] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 0 and max day 0
+[30Dec2024 01:56:14.040] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 20 and max day 0
+[30Dec2024 01:56:14.040] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 30 and max day 40
+[30Dec2024 01:56:14.040] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 3, min day 40 and max day 40
+[30Dec2024 01:56:14.042] [main/INFO] [hordes/]: Loaded entity minecraft:illusioner as entity.minecraft.illusioner with weight 5, min day 50 and max day 0
+[30Dec2024 01:56:14.042] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 50 and max day 0
+[30Dec2024 01:56:14.042] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 0
+[30Dec2024 01:56:14.043] [main/INFO] [hordes/]: loaded horde table hordes:illagers
+[30Dec2024 01:56:14.043] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 0 and max day 20
+[30Dec2024 01:56:14.043] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 20, min day 0 and max day 30
+[30Dec2024 01:56:14.044] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 20 and max day 50
+[30Dec2024 01:56:14.044] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 20 and max day 0
+[30Dec2024 01:56:14.044] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 40 and max day 0
+[30Dec2024 01:56:14.045] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 40 and max day 0
+[30Dec2024 01:56:14.045] [main/INFO] [hordes/]: loaded horde table hordes:skeletons
+[30Dec2024 01:56:14.045] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
+[30Dec2024 01:56:14.045] [main/INFO] [hordes/]: loaded horde table hordes:fallback
+[30Dec2024 01:56:14.065] [main/INFO] [hordes/]: loaded horde script hordes:default
+[30Dec2024 01:56:14.066] [main/INFO] [hordes/]: Loading conversion tables
+[30Dec2024 01:56:14.066] [main/INFO] [hordes/]: Loading conversion table hordes:infection_conversions
+[30Dec2024 01:56:14.071] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.horse to entity.minecraft.zombie_horse with chance of 0.65
+[30Dec2024 01:56:14.072] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin to entity.minecraft.zombified_piglin with chance of 0.75
+[30Dec2024 01:56:14.073] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin_brute to entity.minecraft.zombified_piglin{Attributes:[{Base:50.0f,Name:"generic.max_health"}],chat_name:"entity.hordes.ZombifiedPiglinBrute.name",texture:"hordes:textures/entity/zombified_piglin_brute.png"} with chance of 0.35
+[30Dec2024 01:56:14.074] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.hoglin to entity.minecraft.zoglin with chance of 0.15
+[30Dec2024 01:56:14.074] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.wandering_trader to entity.minecraft.zombie_villager{VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWanderingTrader.name",texture:"hordes:textures/entity/zombie_wandering_trader.png"} with chance of 0.75
+[30Dec2024 01:56:14.074] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.pillager to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombiePillager.name",texture:"hordes:textures/entity/zombie_pillager.png"} with chance of 0.75
+[30Dec2024 01:56:14.075] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.vindicator to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieVindicator.name",texture:"hordes:textures/entity/zombie_vindicator.png"} with chance of 0.35
+[30Dec2024 01:56:14.075] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.evoker to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieEvoker.name",texture:"hordes:textures/entity/zombie_evoker.png"} with chance of 0.5
+[30Dec2024 01:56:14.076] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.illusioner to entity.minecraft.zombie_villager{Attributes:[{Base:32.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieIllusioner.name",texture:"hordes:textures/entity/zombie_illusioner.png"} with chance of 0.15
+[30Dec2024 01:56:14.076] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.witch to entity.minecraft.zombie_villager{Attributes:[{Base:26.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWitch.name",texture:"hordes:textures/entity/zombie_witch.png"} with chance of 0.25
+[30Dec2024 01:56:14.076] [main/INFO] [hordes/]: Loading immunity item list
+[30Dec2024 01:56:14.077] [main/INFO] [hordes/]: Loading immunity item list hordes:immunity_items
+[30Dec2024 01:56:14.077] [main/INFO] [hordes/]: Loaded immunity item minecraft:enchanted_golden_apple with duration 150
+[30Dec2024 01:56:14.080] [main/INFO] [hordes/]: Loading wearables protection list
+[30Dec2024 01:56:14.080] [main/INFO] [hordes/]: Loading wearables protection list hordes:immune_wearables
+[30Dec2024 01:56:14.082] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_boots with modifier 0.95
+[30Dec2024 01:56:14.082] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_leggings with modifier 0.95
+[30Dec2024 01:56:14.083] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_chestplate with modifier 0.95
+[30Dec2024 01:56:14.083] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_helmet with modifier 0.95
+[30Dec2024 01:56:14.084] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_boots with modifier 0.95
+[30Dec2024 01:56:14.084] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_leggings with modifier 0.95
+[30Dec2024 01:56:14.085] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_chestplate with modifier 0.95
+[30Dec2024 01:56:14.086] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_helmet with modifier 0.95
+[30Dec2024 01:56:14.086] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_boots with modifier 0.9
+[30Dec2024 01:56:14.087] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_leggings with modifier 0.9
+[30Dec2024 01:56:14.089] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_chestplate with modifier 0.9
+[30Dec2024 01:56:14.090] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_helmet with modifier 0.9
+[30Dec2024 01:56:14.090] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_boots with modifier 0.9
+[30Dec2024 01:56:14.091] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_leggings with modifier 0.9
+[30Dec2024 01:56:14.092] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_chestplate with modifier 0.9
+[30Dec2024 01:56:14.092] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_helmet with modifier 0.9
+[30Dec2024 01:56:14.093] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_boots with modifier 0.86
+[30Dec2024 01:56:14.094] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_leggings with modifier 0.86
+[30Dec2024 01:56:14.094] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_chestplate with modifier 0.86
+[30Dec2024 01:56:14.095] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_helmet with modifier 0.86
+[30Dec2024 01:56:14.096] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_boots with modifier 0.82
+[30Dec2024 01:56:14.096] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_leggings with modifier 0.82
+[30Dec2024 01:56:14.100] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_chestplate with modifier 0.82
+[30Dec2024 01:56:14.101] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_helmet with modifier 0.82
+[30Dec2024 01:56:14.101] [main/INFO] [hordes/]: Loaded wearable protection minecraft:turtle_helmet with modifier 0.75
+[30Dec2024 01:56:14.129] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[30Dec2024 01:56:15.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[30Dec2024 01:56:15.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30Dec2024 01:56:15.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30Dec2024 01:56:15.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30Dec2024 01:56:15.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30Dec2024 01:56:15.819] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[30Dec2024 01:56:15.942] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[30Dec2024 01:56:15.943] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[30Dec2024 01:56:15.943] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[30Dec2024 01:56:15.943] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[30Dec2024 01:56:15.959] [Server thread/INFO] [quickstack/]: [quickstack]: Configuration changed.
+[30Dec2024 01:56:15.960] [Thread-1/INFO] [quickstack/]: [quickstack]: Configuration changed.
+[30Dec2024 01:56:15.962] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Dec2024 01:56:15.965] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Dec2024 01:56:16.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30Dec2024 01:56:22.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Dec2024 01:56:25.838] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:56:25.840] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:56:25.841] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:56:25.841] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:56:25.842] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:56:25.843] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:56:25.843] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:56:25.844] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:56:26.034] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 01:56:26.534] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[30Dec2024 01:56:27.034] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 70%
+[30Dec2024 01:56:27.205] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5172 ms
+[30Dec2024 01:56:27.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.249s)! For help, type "help"
+[30Dec2024 01:56:27.249] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Dec2024 01:56:27.288] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[30Dec2024 01:56:27.288] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[30Dec2024 02:00:37.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:49055] logged in with entity id 984 at (-14.5, 68.0, 9.5)
+[30Dec2024 02:00:37.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[30Dec2024 02:00:37.865] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[30Dec2024 02:00:37.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has reached the goal [Choose Your Class]
+[30Dec2024 02:00:37.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Christmas]
+[30Dec2024 02:00:38.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has completed the challenge [The Undead]
+[30Dec2024 02:00:38.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Ice and Fire]
+[30Dec2024 02:00:52.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrPink007[/127.192.172.51:41853] logged in with entity id 1043 at (-9.5, 68.0, 8.5)
+[30Dec2024 02:00:52.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 joined the game
+[30Dec2024 02:00:52.640] [Server thread/INFO] [Jade/]: Syncing config to MrPink007 (4b7fc805-1d3f-3487-a3e3-825e1ec6667f)
+[30Dec2024 02:00:52.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has reached the goal [Choose Your Class]
+[30Dec2024 02:00:52.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Christmas]
+[30Dec2024 02:00:52.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has completed the challenge [The Undead]
+[30Dec2024 02:00:52.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Ice and Fire]
+[30Dec2024 02:01:24.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=70, z=24}
+[30Dec2024 02:01:31.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=70, z=24}
+[30Dec2024 02:01:49.649] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-13, y=-45, z=233}
+[30Dec2024 02:01:52.554] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-83, y=-4, z=251}
+[30Dec2024 02:01:52.672] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[30Dec2024 02:01:53.664] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-196, y=-37, z=242}
+[30Dec2024 02:02:21.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by Zombie
+[30Dec2024 02:02:21.708] [Server thread/WARN] [tombstone/]: The drop event of the player Xx0bama228xX was canceled by another mod
+[30Dec2024 02:02:21.734] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[30Dec2024 02:02:24.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=70, z=27}
+[30Dec2024 02:02:37.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Disconnected
+[30Dec2024 02:02:37.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[30Dec2024 02:02:37.950] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Dec2024 02:02:55.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:51469] logged in with entity id 1530 at (-32.721163727195936, 66.4687560574438, 16.480376971579613)
+[30Dec2024 02:02:55.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[30Dec2024 02:02:55.140] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[30Dec2024 02:03:03.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has completed the challenge [Mage Class]
+[30Dec2024 02:03:41.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has reached the goal [Here They Come]
+[30Dec2024 02:03:53.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Door Knight
+[30Dec2024 02:03:53.347] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[30Dec2024 02:03:53.356] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[30Dec2024 02:03:57.583] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Xx0bama228xX'/1306, l='ServerLevel[world]', x=-4.22, y=66.00, z=4.65] died: Zombie Player was slain by Xx0bama228xX
+[30Dec2024 02:04:06.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has reached the goal [Here They Come]
+[30Dec2024 02:04:20.403] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-12, y=-51, z=-240}
+[30Dec2024 02:04:25.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[30Dec2024 02:04:25.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[30Dec2024 02:05:18.444] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-264, y=-49, z=-96}
+[30Dec2024 02:05:18.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:46953] logged in with entity id 2435 at (-6.82912024193311, 68.0, -41.4508866759892)
+[30Dec2024 02:05:18.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[30Dec2024 02:05:18.729] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
