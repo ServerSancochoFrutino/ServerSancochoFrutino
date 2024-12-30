@@ -586,3 +586,50 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [30Dec2024 02:15:24.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was blown up by Creeper
 [30Dec2024 02:15:24.708] [Server thread/WARN] [tombstone/]: The drop event of the player Xx0bama228xX was canceled by another mod
 [30Dec2024 02:15:24.720] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[30Dec2024 02:15:46.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Monster Hunter]
+[30Dec2024 02:17:31.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Xx0bama228xX'/6110, l='ServerLevel[world]', x=-253.72, y=-1.00, z=245.50] died: Zombie Player was slain by Xx0bama228xX
+[30Dec2024 02:17:31.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Knowledge of Death]
+[30Dec2024 02:17:31.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [A Strange Grave Dust]
+[30Dec2024 02:17:39.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Sweet Dreams]
+[30Dec2024 02:17:49.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Knowledge raises the soul]
+[30Dec2024 02:18:09.799] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-143, y=-54, z=452}
+[30Dec2024 02:18:53.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Iron Golem
+[30Dec2024 02:18:53.855] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[30Dec2024 02:18:53.876] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[30Dec2024 02:18:55.864] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/7097, l='ServerLevel[world]', x=-151.38, y=68.39, z=88.13] died: Zombie Player was slain by Iron Golem
+[30Dec2024 02:19:28.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was shot by Skeleton
+[30Dec2024 02:19:28.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Your First Grave]
+[30Dec2024 02:19:28.969] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[30Dec2024 02:19:30.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [The Most Useful Key]
+[30Dec2024 02:19:54.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has reached the goal [Chain Death]
+[30Dec2024 02:19:54.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by Zombie Bruiser
+[30Dec2024 02:19:54.615] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[30Dec2024 02:21:03.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Amateur Archaeologist]
+[30Dec2024 02:21:23.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Mimic
+[30Dec2024 02:21:23.021] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[30Dec2024 02:21:47.373] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-547, y=-22, z=329}
+[30Dec2024 02:21:47.449] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-547, y=24, z=357}
+[30Dec2024 02:21:56.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made MrPink007 a server operator
+[30Dec2024 02:21:59.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Chest Slayer]
+[30Dec2024 02:22:02.554] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-571, y=-32, z=465}
+[30Dec2024 02:22:02.658] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-563, y=-15, z=299}
+[30Dec2024 02:22:06.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [A Strange Grave Dust]
+[30Dec2024 02:22:14.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juandpl18[/127.127.23.159:44553] logged in with entity id 8440 at (-12.364984497259949, 65.0, -0.33693709563198726)
+[30Dec2024 02:22:14.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 joined the game
+[30Dec2024 02:22:14.115] [Server thread/INFO] [Jade/]: Syncing config to juandpl18 (4e8e65b5-6a17-3235-86c0-0a5058a1c17b)
+[30Dec2024 02:22:18.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Amateur Archaeologist]
+[30Dec2024 02:22:46.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to Xx0bama228xX]
+[30Dec2024 02:23:03.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported Xx0bama228xX to MrPink007]
+[30Dec2024 02:23:30.501] [Worker-Main-10/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[30Dec2024 02:23:52.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has completed the challenge [Assassin Class]
+[30Dec2024 02:24:25.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Alex's Caves]
+[30Dec2024 02:24:25.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[30Dec2024 02:24:25.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[30Dec2024 02:24:25.843] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Dec2024 02:24:27.141] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-313, y=-23, z=620}
+[30Dec2024 02:24:34.866] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-263, y=6, z=694}
+[30Dec2024 02:24:35.007] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-118, y=-4, z=698}
+[30Dec2024 02:24:38.296] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-108, y=-8, z=674}
+[30Dec2024 02:24:55.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:36851] logged in with entity id 9952 at (-372.9751045940549, -7.0, 350.4019924836247)
+[30Dec2024 02:24:55.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[30Dec2024 02:24:55.872] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
