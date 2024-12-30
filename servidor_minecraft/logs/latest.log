@@ -540,3 +540,49 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [30Dec2024 02:05:18.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:46953] logged in with entity id 2435 at (-6.82912024193311, 68.0, -41.4508866759892)
 [30Dec2024 02:05:18.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
 [30Dec2024 02:05:18.729] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[30Dec2024 02:05:31.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Disconnected
+[30Dec2024 02:05:31.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[30Dec2024 02:05:42.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Sweet Dreams]
+[30Dec2024 02:05:53.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:51233] logged in with entity id 2701 at (-14.445749727226682, 68.0, -40.84140761565516)
+[30Dec2024 02:05:53.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[30Dec2024 02:05:53.957] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[30Dec2024 02:06:08.618] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/866, l='ServerLevel[world]', x=-104.51, y=68.00, z=117.26] died, message: 'Unemployed was blown up by Creeper'
+[30Dec2024 02:06:08.620] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/867, l='ServerLevel[world]', x=-104.86, y=68.00, z=116.49] died, message: 'Unemployed was blown up by Creeper'
+[30Dec2024 02:06:22.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by Corpse Fly
+[30Dec2024 02:06:22.356] [Server thread/WARN] [tombstone/]: The drop event of the player Xx0bama228xX was canceled by another mod
+[30Dec2024 02:06:22.361] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[30Dec2024 02:06:32.281] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-332, y=-42, z=-68}
+[30Dec2024 02:06:35.895] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-348, y=8, z=111}
+[30Dec2024 02:06:56.449] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-254, y=-18, z=326}
+[30Dec2024 02:06:59.897] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-142, y=-14, z=337}
+[30Dec2024 02:07:00.202] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-227, y=-14, z=348}
+[30Dec2024 02:07:04.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Xx0bama228xX'/2960, l='ServerLevel[world]', x=-7.45, y=67.00, z=-29.83] died: Zombie Player was slain by Xx0bama228xX
+[30Dec2024 02:07:44.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Scarlet Persecutor
+[30Dec2024 02:07:44.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Your First Grave]
+[30Dec2024 02:07:44.475] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[30Dec2024 02:07:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [The Most Useful Key]
+[30Dec2024 02:07:51.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Knowledge of Death]
+[30Dec2024 02:07:51.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has reached the goal [A Fast Comeback]
+[30Dec2024 02:08:33.496] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-375, y=-34, z=204}
+[30Dec2024 02:08:33.894] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-382, y=-39, z=3}
+[30Dec2024 02:09:07.304] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-385, y=29, z=135}
+[30Dec2024 02:09:35.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has completed the challenge [Berserk Class]
+[30Dec2024 02:09:48.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Stone Age]
+[30Dec2024 02:09:59.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Getting an Upgrade]
+[30Dec2024 02:10:31.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX fell from a high place
+[30Dec2024 02:10:31.641] [Server thread/WARN] [tombstone/]: The drop event of the player Xx0bama228xX was canceled by another mod
+[30Dec2024 02:10:31.642] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[30Dec2024 02:11:22.148] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-390, y=-18, z=408}
+[30Dec2024 02:11:22.196] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-76, y=9, z=404}
+[30Dec2024 02:11:32.800] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-368, y=0, z=-134}
+[30Dec2024 02:13:02.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Acquire Hardware]
+[30Dec2024 02:13:15.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Stone Age]
+[30Dec2024 02:13:21.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Isn't It Iron Pick]
+[30Dec2024 02:13:29.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Getting an Upgrade]
+[30Dec2024 02:14:00.653] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-448, y=12, z=109}
+[30Dec2024 02:14:17.712] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-132, y=1, z=437}
+[30Dec2024 02:14:33.650] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-445, y=-17, z=-114}
+[30Dec2024 02:15:15.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Monster Hunter]
+[30Dec2024 02:15:24.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was blown up by Creeper
+[30Dec2024 02:15:24.708] [Server thread/WARN] [tombstone/]: The drop event of the player Xx0bama228xX was canceled by another mod
+[30Dec2024 02:15:24.720] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
