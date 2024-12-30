@@ -1180,3 +1180,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [30Dec2024 04:02:43.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
 [30Dec2024 04:04:44.527] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-41, y=-44, z=544}
 [30Dec2024 04:05:02.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to MrPink007]
+[30Dec2024 04:12:08.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Zombie
+[30Dec2024 04:12:08.850] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[30Dec2024 04:12:08.856] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[30Dec2024 04:12:25.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/78575, l='ServerLevel[world]', x=-156.76, y=70.18, z=101.44] died: Zombie Player was slain by Xx0bama228xX
+[30Dec2024 04:12:25.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has reached the goal [Miphril]
+[30Dec2024 04:12:51.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[30Dec2024 04:12:54.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 died because of The Pregnant
+[30Dec2024 04:12:54.252] [Server thread/WARN] [tombstone/]: The drop event of the player juandpl18 was canceled by another mod
+[30Dec2024 04:12:54.263] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[30Dec2024 04:13:01.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[30Dec2024 04:13:02.146] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['juandpl18'/78846, l='ServerLevel[world]', x=-152.41, y=68.94, z=119.11] died: Zombie Player was slain by Iron Golem
+[30Dec2024 04:13:38.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Ambush]
+[30Dec2024 04:13:39.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported MrPink007 to Xx0bama228xX]
+[30Dec2024 04:14:21.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Ambush]
+[30Dec2024 04:16:37.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[30Dec2024 04:16:37.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[30Dec2024 04:16:44.331] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:38119] logged in with entity id 79791 at (-159.436051343585, 70.0, 99.06414413363166)
+[30Dec2024 04:16:44.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[30Dec2024 04:16:44.401] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[30Dec2024 04:16:44.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Mysterious Gift]
