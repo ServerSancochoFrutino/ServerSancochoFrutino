@@ -1113,3 +1113,54 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [30Dec2024 03:43:57.613] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2504, y=-1, z=1972}
 [30Dec2024 03:43:58.196] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2711, y=-47, z=1970}
 [30Dec2024 03:44:47.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [It Belongs in a Museum]
+[30Dec2024 03:47:03.492] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2687, y=24, z=1232}
+[30Dec2024 03:47:14.602] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2687, y=-18, z=1130}
+[30Dec2024 03:47:14.904] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2772, y=24, z=1182}
+[30Dec2024 03:47:16.246] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2503, y=4, z=1127}
+[30Dec2024 03:47:24.087] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2838, y=14, z=1196}
+[30Dec2024 03:47:26.355] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2870, y=-25, z=1166}
+[30Dec2024 03:47:26.811] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2882, y=-17, z=1419}
+[30Dec2024 03:47:26.906] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2888, y=1, z=1510}
+[30Dec2024 03:47:27.901] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2838, y=-28, z=1146}
+[30Dec2024 03:47:41.476] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2856, y=-21, z=1108}
+[30Dec2024 03:47:42.376] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2628, y=28, z=1104}
+[30Dec2024 03:47:42.379] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2562, y=-51, z=1115}
+[30Dec2024 03:47:51.071] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2998, y=7, z=1453}
+[30Dec2024 03:47:51.173] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2998, y=24, z=1249}
+[30Dec2024 03:47:54.370] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3011, y=-17, z=1258}
+[30Dec2024 03:48:15.707] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3025, y=-4, z=1163}
+[30Dec2024 03:48:20.651] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2960, y=-38, z=1074}
+[30Dec2024 03:48:20.652] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2955, y=17, z=1072}
+[30Dec2024 03:48:25.496] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2940, y=4, z=1061}
+[30Dec2024 03:48:31.653] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2744, y=18, z=1042}
+[30Dec2024 03:48:59.598] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2765, y=17, z=1025}
+[30Dec2024 03:48:59.998] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3014, y=-42, z=1036}
+[30Dec2024 03:49:01.370] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2941, y=24, z=1014}
+[30Dec2024 03:49:02.904] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3056, y=-18, z=1077}
+[30Dec2024 03:49:06.847] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2945, y=-48, z=977}
+[30Dec2024 03:49:07.548] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3065, y=-28, z=1098}
+[30Dec2024 03:49:16.562] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3059, y=-18, z=1391}
+[30Dec2024 03:49:19.014] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3100, y=-39, z=1527}
+[30Dec2024 03:49:25.300] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3134, y=-18, z=1408}
+[30Dec2024 03:49:50.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 suffocated in a wall
+[30Dec2024 03:49:50.308] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[30Dec2024 03:49:50.312] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[30Dec2024 03:49:59.850] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/70667, l='ServerLevel[world]', x=-142.50, y=-22.00, z=85.50] died: Zombie Player suffocated in a wall
+[30Dec2024 03:52:17.110] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2851, y=-33, z=1720}
+[30Dec2024 03:52:18.236] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2842, y=-42, z=1781}
+[30Dec2024 03:52:23.953] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2861, y=-9, z=1866}
+[30Dec2024 03:52:58.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was killed
+[30Dec2024 03:52:58.776] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[30Dec2024 03:52:58.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Killed MrPink007]
+[30Dec2024 03:52:58.777] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[30Dec2024 03:53:45.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [The Wind Darkening]
+[30Dec2024 03:53:54.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Night Night]
+[30Dec2024 03:53:58.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['MrPink007'/72617, l='ServerLevel[world]', x=-2769.00, y=-16.00, z=1685.47] died: Husk Player was slain by MrPink007
+[30Dec2024 03:54:42.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[30Dec2024 03:55:09.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported MrPink007 to Xx0bama228xX]
+[30Dec2024 03:56:02.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was killed
+[30Dec2024 03:56:02.480] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[30Dec2024 03:56:02.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Killed MrPink007]
+[30Dec2024 03:56:02.480] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[30Dec2024 03:56:42.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[30Dec2024 03:56:43.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported juandpl18 to MrPink007]
