@@ -270,6 +270,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-31 00:01:58 +0000",
       "minecraft:skeleton": "2024-12-30 02:26:35 +0000",
+      "minecraft:vindicator": "2024-12-31 02:42:23 +0000",
       "minecraft:spider": "2024-12-30 04:34:48 +0000",
       "minecraft:creeper": "2024-12-31 01:12:51 +0000",
       "minecraft:cave_spider": "2024-12-30 03:41:36 +0000",
@@ -888,7 +889,8 @@
     "criteria": {
       "cooked_beef": "2024-12-30 02:39:18 +0000",
       "bread": "2024-12-30 03:03:28 +0000",
-      "golden_carrot": "2024-12-30 03:26:47 +0000"
+      "golden_carrot": "2024-12-30 03:26:47 +0000",
+      "carrot": "2024-12-31 02:42:52 +0000"
     },
     "done": false
   },
@@ -2592,74 +2594,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 02:28:29 +0000"
+      "log_spam_fixer": "2024-12-31 02:43:29 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 02:28:29 +0000"
+      "log_spam_fixer": "2024-12-31 02:43:29 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 02:28:29 +0000"
+      "log_spam_fixer": "2024-12-31 02:43:29 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2024-12-31 02:28:32 +0000",
-      "log_spam_fixer": "2024-12-31 02:28:29 +0000"
+      "requirement": "2024-12-31 02:43:30 +0000",
+      "log_spam_fixer": "2024-12-31 02:43:29 +0000"
     },
     "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 02:28:29 +0000"
+      "log_spam_fixer": "2024-12-31 02:43:29 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 02:28:29 +0000"
+      "log_spam_fixer": "2024-12-31 02:43:29 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 02:28:29 +0000"
+      "log_spam_fixer": "2024-12-31 02:43:29 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 02:28:29 +0000"
+      "log_spam_fixer": "2024-12-31 02:43:29 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 02:28:29 +0000"
+      "log_spam_fixer": "2024-12-31 02:43:29 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 02:28:29 +0000"
+      "log_spam_fixer": "2024-12-31 02:43:29 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 02:28:29 +0000"
+      "log_spam_fixer": "2024-12-31 02:43:29 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 02:28:29 +0000"
+      "log_spam_fixer": "2024-12-31 02:43:29 +0000"
     },
     "done": false
   },
@@ -2711,9 +2713,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-31 02:42:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-31 02:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-31 02:41:52 +0000"
     },
     "done": true
   },
@@ -2768,6 +2782,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-31 02:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-31 02:39:57 +0000"
     },
     "done": true
   },
