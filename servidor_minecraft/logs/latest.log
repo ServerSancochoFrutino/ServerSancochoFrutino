@@ -763,3 +763,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [31Dec2024 04:58:20.851] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@206c9c33]Can't spawn wave because max cap has been reached
 [31Dec2024 05:23:51.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was doomed to fall by Zombie Horse
 [31Dec2024 05:23:51.747] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[31Dec2024 06:25:20.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juandpl18 lost connection: Disconnected
+[31Dec2024 06:25:20.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 left the game
+[31Dec2024 06:25:25.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Dec2024 06:25:25.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Dec2024 06:25:25.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Dec2024 06:25:26.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Dec2024 06:25:26.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Dec2024 06:25:26.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Dec2024 06:25:26.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Dec2024 06:25:26.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Dec2024 06:25:26.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Dec2024 06:25:26.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Dec2024 06:25:26.609] [Server thread/INFO] [quickstack/]: [quickstack]: Configuration changed.
+[31Dec2024 06:25:26.609] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
