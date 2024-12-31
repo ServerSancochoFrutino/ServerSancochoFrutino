@@ -550,3 +550,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [31Dec2024 02:22:04.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:39689] logged in with entity id 10925 at (-413.69999998807907, 69.63151595044059, -391.30831900446196)
 [31Dec2024 02:22:04.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
 [31Dec2024 02:22:04.612] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 02:24:54.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juandpl18[/127.127.23.159:54455] logged in with entity id 11954 at (-163.30000001192093, 71.0, 100.6299090004088)
+[31Dec2024 02:24:54.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 joined the game
+[31Dec2024 02:24:54.494] [Server thread/INFO] [Jade/]: Syncing config to juandpl18 (4e8e65b5-6a17-3235-86c0-0a5058a1c17b)
+[31Dec2024 02:25:22.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> buenas
+[31Dec2024 02:25:38.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> buenas
+[31Dec2024 02:25:43.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> discord?
+[31Dec2024 02:25:50.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 02:25:50.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 02:26:18.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:50807] logged in with entity id 12597 at (-185.76147382634633, 97.25220334025373, -335.77473596100145)
+[31Dec2024 02:26:18.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 02:26:18.172] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 02:26:59.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> discord?
+[31Dec2024 02:27:11.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> ahorita no puedo, mas tarde
+[31Dec2024 02:27:15.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> ahh dele
+[31Dec2024 02:27:17.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> encontre a medusa
+[31Dec2024 02:27:51.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> esa ya la mate yo xd
+[31Dec2024 02:28:04.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> ya vi en el mapa donde esta usted xd
+[31Dec2024 02:28:27.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> xd
+[31Dec2024 02:28:48.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 02:28:48.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 02:29:19.897] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:55609] logged in with entity id 13720 at (-179.2777468719208, 88.40739540236494, -332.7334136450218)
+[31Dec2024 02:29:19.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 02:29:19.918] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 02:29:35.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> parce porque lo esta sacando tanto?
+[31Dec2024 02:29:46.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> ni idea
+[31Dec2024 02:30:03.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> hay como lag, pero en otros juegos no tengo, solo aqui
+[31Dec2024 02:30:26.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> pues yo lag si no tengo nada
+[31Dec2024 02:30:50.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 02:30:50.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 02:31:46.535] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7347a02d[id=<null>,name=Xx0bama228xX,properties={},legacy=false] (/127.173.167.133:45253) lost connection: Disconnected
+[31Dec2024 02:31:52.396] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:34945] logged in with entity id 14765 at (-501.65487092309166, 65.7531999805212, 441.4282952612073)
+[31Dec2024 02:31:52.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 02:31:52.417] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 02:32:20.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> que raro
+[31Dec2024 02:32:22.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 02:32:22.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 02:32:33.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:56019] logged in with entity id 15106 at (-501.65487092309166, 65.7531999805212, 441.4282952612073)
+[31Dec2024 02:32:33.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 02:32:33.316] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 02:32:52.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> elimine el server
+[31Dec2024 02:33:04.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> borrelo cierre el minecraft
+[31Dec2024 02:33:12.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> y vuelva a poner el server a ver si le ayuda
+[31Dec2024 02:33:29.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> ya voy a probar
