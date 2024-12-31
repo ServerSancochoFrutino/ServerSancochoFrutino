@@ -613,3 +613,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [31Dec2024 02:43:17.154] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
 [31Dec2024 02:43:25.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> .-.
 [31Dec2024 02:43:38.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> se me fue perdon
+[31Dec2024 02:44:19.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 02:44:19.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 02:45:01.238] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b802903[id=<null>,name=Xx0bama228xX,properties={},legacy=false] (/127.173.167.133:47177) lost connection: Disconnected
+[31Dec2024 02:45:06.849] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:45667] logged in with entity id 20071 at (-156.2271908821531, 69.7531999805212, 104.57758826448392)
+[31Dec2024 02:45:06.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 02:45:06.894] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 02:45:32.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by Door Knight
+[31Dec2024 02:45:32.696] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[31Dec2024 02:45:35.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Disconnected
+[31Dec2024 02:45:35.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 02:46:03.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:49319] logged in with entity id 20296 at (-156.2271908821531, 69.28904060556576, 104.57758826448392)
+[31Dec2024 02:46:03.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 02:46:03.741] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 02:47:03.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 02:47:03.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 02:47:32.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:48267] logged in with entity id 20549 at (-159.13932611928075, 70.0, 97.6813455956303)
+[31Dec2024 02:47:33.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 02:47:33.041] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 02:49:33.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 02:49:33.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
