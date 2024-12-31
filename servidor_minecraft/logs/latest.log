@@ -534,3 +534,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [31Dec2024 01:45:56.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:51521] logged in with entity id 2421 at (-154.30000001192093, 59.0, 95.69999998807907)
 [31Dec2024 01:45:56.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
 [31Dec2024 01:45:56.583] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 01:58:27.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 01:58:27.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 01:58:54.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:60991] logged in with entity id 5024 at (-92.17852577056209, 88.0, -312.9768234196151)
+[31Dec2024 01:58:54.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 01:58:54.580] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 02:00:36.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Ambush]
+[31Dec2024 02:01:55.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has reached the goal [Fortuitous Militia]
+[31Dec2024 02:12:26.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Voluntary Exile]
