@@ -633,3 +633,63 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [31Dec2024 02:47:33.041] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
 [31Dec2024 02:49:33.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
 [31Dec2024 02:49:33.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 03:06:00.896] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:39933] logged in with entity id 23973 at (-91.02229732020852, 69.0, 100.23072915288039)
+[31Dec2024 03:06:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 03:06:00.944] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 03:06:35.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 03:06:35.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 03:07:01.850] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:55303] logged in with entity id 24153 at (-91.02229732020852, 69.0, 100.23072915288039)
+[31Dec2024 03:07:01.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 03:07:01.897] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 03:07:31.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 03:07:31.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 03:08:09.344] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:48005] logged in with entity id 24327 at (-91.02229732020852, 69.0, 100.23072915288039)
+[31Dec2024 03:08:09.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 03:08:09.390] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 03:09:09.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 03:09:09.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 03:09:29.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:53731] logged in with entity id 24562 at (-91.02229732020852, 69.0, 100.23072915288039)
+[31Dec2024 03:09:29.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 03:09:29.994] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 03:10:18.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> nada?
+[31Dec2024 03:10:27.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> creo que ya
+[31Dec2024 03:10:35.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> vamos a ver como se desarrolla la cosa
+[31Dec2024 03:11:30.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 03:11:30.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 03:12:05.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:53985] logged in with entity id 25348 at (-159.71761099863733, 70.0, 101.7915215184851)
+[31Dec2024 03:12:05.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 03:12:05.222] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 03:13:05.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 03:13:05.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 03:13:37.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:47595] logged in with entity id 25873 at (-158.1317557926027, 70.0, 102.32835371590099)
+[31Dec2024 03:13:37.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 03:13:37.076] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 03:14:45.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> si quiere reinicio el server a ver si le ayuda?
+[31Dec2024 03:15:00.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> naa, relajao
+[31Dec2024 03:15:06.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> ya se estabilizara
+[31Dec2024 03:15:23.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> apagalo oto apagalooo
+[31Dec2024 03:15:29.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> XD
+[31Dec2024 03:17:14.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX withered away whilst fighting Lifestealer
+[31Dec2024 03:17:14.490] [Server thread/WARN] [tombstone/]: The drop event of the player Xx0bama228xX was canceled by another mod
+[31Dec2024 03:17:14.491] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[31Dec2024 03:17:23.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> nooo obama
+[31Dec2024 03:17:31.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> naaa
+[31Dec2024 03:18:07.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> ve a mi zombie?
+[31Dec2024 03:18:47.392] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Xx0bama228xX'/27395, l='ServerLevel[world]', x=-186.55, y=69.00, z=119.52] died: %1$s was slain by %2$s
+[31Dec2024 03:19:31.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> agarre mis cosas?
+[31Dec2024 03:19:33.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> xd
+[31Dec2024 03:19:49.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> no hay nada
+[31Dec2024 03:19:55.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> .-.
+[31Dec2024 03:20:05.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> a
+[31Dec2024 03:20:42.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Set own game mode to Creative Mode]
+[31Dec2024 03:20:46.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> que tenia?
+[31Dec2024 03:20:56.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> los mas roto del juego ya
+[31Dec2024 03:21:01.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> si como no
+[31Dec2024 03:21:11.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> lo del berserk steel
+[31Dec2024 03:21:30.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> un pico de diamante, un martillo de netril del bersker
+[31Dec2024 03:21:42.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> mochila de oro
+[31Dec2024 03:21:51.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> los 4 anillos del berserk
+[31Dec2024 03:22:01.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> las gafas de vision nocturnar
+[31Dec2024 03:22:17.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> un guante amarillo del artifacts
+[31Dec2024 03:22:39.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> 9 de nitril
+[31Dec2024 03:23:12.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> y 50 de carbon, el resto era "basura"
