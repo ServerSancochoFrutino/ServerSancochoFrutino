@@ -730,3 +730,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [31Dec2024 03:39:39.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
 [31Dec2024 03:40:20.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
 [31Dec2024 03:40:20.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 04:08:06.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 fell from a high place
+[31Dec2024 04:08:06.801] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
