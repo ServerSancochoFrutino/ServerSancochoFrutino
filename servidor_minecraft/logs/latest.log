@@ -715,3 +715,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [31Dec2024 03:33:10.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:42519] logged in with entity id 29964 at (-162.4609356649592, 70.0, 96.71241461191906)
 [31Dec2024 03:33:10.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
 [31Dec2024 03:33:10.533] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 03:34:55.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 03:34:55.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 03:35:26.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:46753] logged in with entity id 30538 at (-165.629473426522, 70.0, 96.521048432701)
+[31Dec2024 03:35:26.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 03:35:26.479] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 03:35:42.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by The Moonflower
+[31Dec2024 03:35:42.862] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[31Dec2024 03:35:47.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Disconnected
+[31Dec2024 03:35:47.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 03:36:05.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:45301] logged in with entity id 30699 at (-165.629473426522, 70.0, 96.521048432701)
+[31Dec2024 03:36:05.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 03:36:05.288] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 03:39:39.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
+[31Dec2024 03:40:20.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 03:40:20.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
