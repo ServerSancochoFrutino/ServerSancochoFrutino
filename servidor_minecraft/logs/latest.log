@@ -517,3 +517,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [31Dec2024 00:56:19.138] [Worker-Main-16/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
 [31Dec2024 00:56:19.958] [Worker-Main-17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=95, y=10, z=1068}
 [31Dec2024 00:56:20.780] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=166, y=-4, z=758}
+[31Dec2024 00:59:29.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juandpl18 lost connection: Disconnected
+[31Dec2024 00:59:29.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 left the game
+[31Dec2024 01:00:52.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juandpl18[/127.127.23.159:47607] logged in with entity id 8787 at (-164.82217273238163, 71.0, 101.44568242640179)
+[31Dec2024 01:00:52.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 joined the game
+[31Dec2024 01:00:52.892] [Server thread/INFO] [Jade/]: Syncing config to juandpl18 (4e8e65b5-6a17-3235-86c0-0a5058a1c17b)
+[31Dec2024 01:01:07.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/791, l='ServerLevel[world]', x=-107.49, y=71.00, z=100.49] died, message: 'death.attack.infection'
+[31Dec2024 01:03:35.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has completed the challenge [+PARRY]
