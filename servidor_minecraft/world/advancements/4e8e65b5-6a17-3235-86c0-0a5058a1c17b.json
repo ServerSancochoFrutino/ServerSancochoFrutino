@@ -267,10 +267,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-31 00:01:58 +0000",
       "minecraft:skeleton": "2024-12-30 02:26:35 +0000",
       "minecraft:spider": "2024-12-30 04:34:48 +0000",
       "minecraft:cave_spider": "2024-12-30 03:41:36 +0000",
-      "minecraft:zombie": "2024-12-30 02:39:37 +0000"
+      "minecraft:zombie": "2024-12-30 02:39:37 +0000",
+      "minecraft:zombie_villager": "2024-12-31 00:08:55 +0000"
     },
     "done": false
   },
@@ -2012,79 +2014,85 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 23:59:20 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:20 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 23:59:20 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:20 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 23:59:20 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 23:59:20 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:20 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 23:59:20 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:20 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 23:59:20 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:20 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 23:59:20 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 23:59:20 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:20 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 23:59:20 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 23:59:20 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:20 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 23:59:20 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 23:59:20 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:20 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-12-30 23:52:26 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2024-12-31 00:05:07 +0000"
     },
     "done": true
   },
@@ -2154,6 +2162,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 00:02:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2024-12-30 23:53:20 +0000"
@@ -2184,6 +2198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-31 00:03:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-30 23:52:26 +0000"
@@ -2202,6 +2222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-31 00:03:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-12-30 23:52:25 +0000"
@@ -2217,6 +2243,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-30 23:52:26 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2024-12-31 00:05:07 +0000"
     },
     "done": true
   },
