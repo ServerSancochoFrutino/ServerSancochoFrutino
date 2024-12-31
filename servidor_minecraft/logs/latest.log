@@ -761,3 +761,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [31Dec2024 04:58:20.847] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
 [31Dec2024 04:58:20.847] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
 [31Dec2024 04:58:20.851] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@206c9c33]Can't spawn wave because max cap has been reached
+[31Dec2024 05:23:51.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was doomed to fall by Zombie Horse
+[31Dec2024 05:23:51.747] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved

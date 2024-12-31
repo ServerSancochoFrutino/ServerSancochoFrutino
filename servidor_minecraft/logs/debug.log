@@ -7775,3 +7775,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [31Dec2024 05:09:01.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Dec2024 05:14:01.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Dec2024 05:14:01.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 05:19:01.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 05:19:01.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 05:23:51.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was doomed to fall by Zombie Horse
+[31Dec2024 05:23:51.746] [Server thread/DEBUG] [tombstone/]: A new grave of the player juandpl18 was created at position [x:-234, y:51, z:114, dim:minecraft:overworld]
+[31Dec2024 05:23:51.747] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[31Dec2024 05:24:01.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 05:24:01.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
