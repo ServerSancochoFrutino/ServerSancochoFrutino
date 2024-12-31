@@ -507,3 +507,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [31Dec2024 00:33:13.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2764ms or 55 ticks behind
 [31Dec2024 00:33:13.929] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/844, l='ServerLevel[world]', x=-135.34, y=70.00, z=756.52]
 [31Dec2024 00:33:34.604] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/1173, l='ServerLevel[world]', x=-172.51, y=67.00, z=1059.42]
+[31Dec2024 00:38:32.426] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-24, y=26, z=1177}
+[31Dec2024 00:38:44.235] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3, y=-41, z=1184}
+[31Dec2024 00:42:27.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has reached the goal [Strong or Careful]
+[31Dec2024 00:42:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 withered away whilst fighting Lifestealer
+[31Dec2024 00:42:27.112] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
