@@ -523,3 +523,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [31Dec2024 01:43:13.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:59179] logged in with entity id 2063 at (-154.78820494117141, 60.0, 95.35820480872373)
 [31Dec2024 01:43:13.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
 [31Dec2024 01:43:13.890] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 01:43:43.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 01:43:43.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 01:44:14.640] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:59561] logged in with entity id 2167 at (-154.78820494117141, 60.0, 95.35820480872373)
+[31Dec2024 01:44:14.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 01:44:14.679] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[31Dec2024 01:45:05.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Xx0bama228xX'/1333, l='ServerLevel[world]', x=-155.79, y=57.00, z=94.49] died: Zombie Player was slain by Xx0bama228xX
+[31Dec2024 01:45:43.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[31Dec2024 01:45:43.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[31Dec2024 01:45:56.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:51521] logged in with entity id 2421 at (-154.30000001192093, 59.0, 95.69999998807907)
+[31Dec2024 01:45:56.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[31Dec2024 01:45:56.583] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
