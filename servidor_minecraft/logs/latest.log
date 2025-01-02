@@ -96,3 +96,31 @@
 [02Jan2025 03:46:03.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> buenas
 [02Jan2025 03:46:05.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> discord?
 [02Jan2025 03:46:11.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> brv
+[02Jan2025 03:51:06.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
+[02Jan2025 03:53:14.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has reached the goal [Strong or Careful]
+[02Jan2025 03:53:14.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by The Hunter
+[02Jan2025 03:53:14.793] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[02Jan2025 03:53:14.799] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[02Jan2025 03:54:12.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was squashed by a falling anvil
+[02Jan2025 03:54:12.594] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[02Jan2025 03:55:29.270] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/38157, l='ServerLevel[world]', x=-160.58, y=68.94, z=108.62] died: Zombie Player was slain by MrPink007
+[02Jan2025 03:55:30.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was squashed by a falling anvil
+[02Jan2025 03:55:30.588] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[02Jan2025 03:55:30.593] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[02Jan2025 03:56:00.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Neighborhood Brawl]
+[02Jan2025 03:56:06.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Zombie Player
+[02Jan2025 03:56:06.437] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[02Jan2025 03:56:06.442] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[02Jan2025 03:56:18.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was doomed to fall by Trader Llama
+[02Jan2025 03:56:18.971] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[02Jan2025 03:56:19.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juandpl18 moved wrongly!
+[02Jan2025 03:56:49.115] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/39593, l='ServerLevel[world]', x=-150.49, y=69.00, z=114.96] died: Zombie Player was slain by MrPink007
+[02Jan2025 03:56:56.166] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/40245, l='ServerLevel[world]', x=-155.50, y=68.94, z=122.50] died: Zombie Player was slain by MrPink007
+[02Jan2025 04:01:06.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juandpl18 lost connection: Timed out
+[02Jan2025 04:01:06.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 left the game
+[02Jan2025 04:01:26.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juandpl18[/127.127.23.159:51269] logged in with entity id 41630 at (-201.43696354200492, 72.0, 154.73943939884956)
+[02Jan2025 04:01:26.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 joined the game
+[02Jan2025 04:01:26.749] [Server thread/INFO] [Jade/]: Syncing config to juandpl18 (4e8e65b5-6a17-3235-86c0-0a5058a1c17b)
+[02Jan2025 04:03:02.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
+[02Jan2025 04:06:45.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was doomed to fall
+[02Jan2025 04:06:45.516] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
