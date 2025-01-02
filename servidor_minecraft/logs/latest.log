@@ -3,3 +3,11 @@
 [02Jan2025 00:23:14.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juandpl18[/127.127.23.159:40887] logged in with entity id 2727 at (-227.84476532878313, 118.0, 135.30115624650358)
 [02Jan2025 00:23:14.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 joined the game
 [02Jan2025 00:23:14.422] [Server thread/INFO] [Jade/]: Syncing config to juandpl18 (4e8e65b5-6a17-3235-86c0-0a5058a1c17b)
+[02Jan2025 00:59:47.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Knowledge raises the soul]
+[02Jan2025 01:04:27.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 fell from a high place
+[02Jan2025 01:04:27.518] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[02Jan2025 01:08:05.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juandpl18 lost connection: Timed out
+[02Jan2025 01:08:05.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 left the game
+[02Jan2025 01:08:15.096] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juandpl18[/127.127.23.159:54711] logged in with entity id 10580 at (-246.8875475766407, 118.0, 156.69094657156242)
+[02Jan2025 01:08:15.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 joined the game
+[02Jan2025 01:08:15.128] [Server thread/INFO] [Jade/]: Syncing config to juandpl18 (4e8e65b5-6a17-3235-86c0-0a5058a1c17b)
