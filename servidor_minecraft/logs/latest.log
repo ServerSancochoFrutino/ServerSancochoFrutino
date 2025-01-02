@@ -124,3 +124,5 @@
 [02Jan2025 04:03:02.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
 [02Jan2025 04:06:45.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was doomed to fall
 [02Jan2025 04:06:45.516] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[02Jan2025 04:11:51.437] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/45111, l='ServerLevel[world]', x=-131.78, y=63.00, z=339.18] died, message: 'Farmer was slain by Drowned Player'
+[02Jan2025 04:17:21.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [You Monster...]
