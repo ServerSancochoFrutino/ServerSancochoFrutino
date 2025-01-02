@@ -11,3 +11,50 @@
 [02Jan2025 01:08:15.096] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juandpl18[/127.127.23.159:54711] logged in with entity id 10580 at (-246.8875475766407, 118.0, 156.69094657156242)
 [02Jan2025 01:08:15.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 joined the game
 [02Jan2025 01:08:15.128] [Server thread/INFO] [Jade/]: Syncing config to juandpl18 (4e8e65b5-6a17-3235-86c0-0a5058a1c17b)
+[02Jan2025 01:23:49.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Ice Bucket Challenge]
+[02Jan2025 01:26:26.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [We Need to Go Deeper]
+[02Jan2025 01:26:26.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Incendium]
+[02Jan2025 01:26:29.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11211ms or 224 ticks behind
+[02Jan2025 01:26:49.538] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
+[02Jan2025 01:26:49.551] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
+[02Jan2025 01:26:49.893] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=108, y=62, z=111}
+[02Jan2025 01:26:55.026] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-237, y=16, z=-193}
+[02Jan2025 01:26:58.797] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=138, y=62, z=81}
+[02Jan2025 01:27:03.169] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=156, y=62, z=196}
+[02Jan2025 01:27:15.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Strange Biomes]
+[02Jan2025 01:27:15.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [The Dust Settles]
+[02Jan2025 01:27:19.710] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=179, y=45, z=119}
+[02Jan2025 01:27:19.869] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=176, y=62, z=146}
+[02Jan2025 01:27:19.870] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=191, y=36, z=144}
+[02Jan2025 01:27:19.874] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=183, y=62, z=150}
+[02Jan2025 01:27:19.874] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=180, y=62, z=153}
+[02Jan2025 01:27:19.875] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=181, y=62, z=150}
+[02Jan2025 01:27:19.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=180, y=62, z=151}
+[02Jan2025 01:27:19.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=184, y=62, z=153}
+[02Jan2025 01:27:19.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=183, y=62, z=154}
+[02Jan2025 01:27:19.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=184, y=62, z=151}
+[02Jan2025 01:27:19.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=181, y=62, z=154}
+[02Jan2025 01:27:20.854] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=178, y=62, z=78}
+[02Jan2025 01:27:23.211] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=223, y=62, z=123}
+[02Jan2025 01:27:24.015] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=211, y=62, z=193}
+[02Jan2025 01:27:25.241] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=226, y=62, z=163}
+[02Jan2025 01:27:53.308] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-51, z=53}
+[02Jan2025 01:27:55.584] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-51, z=70}
+[02Jan2025 01:27:56.060] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-54, z=56}
+[02Jan2025 01:27:59.546] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=-45, z=70}
+[02Jan2025 01:27:59.547] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=-45, z=71}
+[02Jan2025 01:27:59.547] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=-45, z=72}
+[02Jan2025 01:27:59.548] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=-45, z=69}
+[02Jan2025 01:28:09.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Hellish Paradise]
+[02Jan2025 01:28:12.122] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-197, y=-53, z=89}
+[02Jan2025 01:28:12.137] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-51, z=112}
+[02Jan2025 01:28:12.363] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-44, y=-51, z=112}
+[02Jan2025 01:28:12.363] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-51, z=112}
+[02Jan2025 01:28:14.350] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-44, y=-51, z=121}
+[02Jan2025 01:28:14.351] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-51, z=121}
+[02Jan2025 01:28:16.128] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-53, z=95}
+[02Jan2025 01:28:16.140] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-51, z=121}
+[02Jan2025 01:28:24.544] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/15201, l='ServerLevel[world]', x=-373.30, y=30.36, z=213.40] died: Sanctum Cultist tried to swim in lava
+[02Jan2025 01:30:38.293] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/15106, l='ServerLevel[world]', x=-255.88, y=73.00, z=64.97] died: Headless Warrior was shot by Piglin
+[02Jan2025 01:31:12.388] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/15121, l='ServerLevel[world]', x=-393.46, y=36.00, z=244.46] died: Sanctum Inquisitor went up in flames
+[02Jan2025 01:39:09.294] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/15315, l='ServerLevel[world]', x=-394.91, y=37.00, z=217.67] died: Sanctum Cultist went up in flames
