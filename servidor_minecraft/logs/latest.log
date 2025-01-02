@@ -1,2 +1,5 @@
 [02Jan2025 00:00:09.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juandpl18 lost connection: Disconnected
 [02Jan2025 00:00:09.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 left the game
+[02Jan2025 00:23:14.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juandpl18[/127.127.23.159:40887] logged in with entity id 2727 at (-227.84476532878313, 118.0, 135.30115624650358)
+[02Jan2025 00:23:14.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 joined the game
+[02Jan2025 00:23:14.422] [Server thread/INFO] [Jade/]: Syncing config to juandpl18 (4e8e65b5-6a17-3235-86c0-0a5058a1c17b)
