@@ -1131,3 +1131,135 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [03Jan2025 03:36:55.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
 [03Jan2025 03:37:40.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was squashed by a falling anvil
 [03Jan2025 03:37:40.767] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[03Jan2025 03:38:13.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
+[03Jan2025 03:38:23.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
+[03Jan2025 03:38:37.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to Xx0bama228xX]
+[03Jan2025 03:38:45.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [A Flaming Sword]
+[03Jan2025 03:39:18.974] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=593, y=-47, z=1377}
+[03Jan2025 03:39:40.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [A Flaming Sword]
+[03Jan2025 03:40:14.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> ya no hay aldeanos verdad?
+[03Jan2025 03:40:24.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> creo k no
+[03Jan2025 03:40:33.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> invoque sacrificando un diamante por aldeano
+[03Jan2025 03:42:40.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by Piglin Brute
+[03Jan2025 03:42:40.662] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[03Jan2025 03:46:31.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrPink007 lost connection: Disconnected
+[03Jan2025 03:46:31.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 left the game
+[03Jan2025 03:46:40.639] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrPink007[/127.192.172.51:56427] logged in with entity id 72922 at (-256.4144285483925, 63.0, -331.4144285483925)
+[03Jan2025 03:46:40.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 joined the game
+[03Jan2025 03:46:40.658] [Server thread/INFO] [Jade/]: Syncing config to MrPink007 (4b7fc805-1d3f-3487-a3e3-825e1ec6667f)
+[03Jan2025 03:47:19.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> está bugeados
+[03Jan2025 03:47:50.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> las cosas que golpeo con la esapda de fuego no se cocinan
+[03Jan2025 03:47:57.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> y el tp me está fallando xd
+[03Jan2025 03:48:13.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> a
+[03Jan2025 03:48:21.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to MrPink007]
+[03Jan2025 03:49:08.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has reached the goal [Dark Creator]
+[03Jan2025 03:49:09.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Dark Metallurgy]
+[03Jan2025 03:49:37.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> nice si se llevo el logro
+[03Jan2025 03:49:45.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> ni se como
+[03Jan2025 03:50:07.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrPink007 lost connection: Disconnected
+[03Jan2025 03:50:07.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 left the game
+[03Jan2025 03:50:16.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrPink007[/127.192.172.51:39315] logged in with entity id 74785 at (-293.6014490384245, 84.0, -448.0372428681436)
+[03Jan2025 03:50:16.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 joined the game
+[03Jan2025 03:50:16.152] [Server thread/INFO] [Jade/]: Syncing config to MrPink007 (4b7fc805-1d3f-3487-a3e3-825e1ec6667f)
+[03Jan2025 03:50:31.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> me está fallando el minimapa kjaskjas
+[03Jan2025 03:50:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> a
+[03Jan2025 03:51:57.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> pd: perdí mi baston de curador
+[03Jan2025 03:52:03.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> :c
+[03Jan2025 03:52:04.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> nooo
+[03Jan2025 03:53:22.385] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-291, y=-44, z=-720}
+[03Jan2025 03:54:13.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was killed
+[03Jan2025 03:54:13.708] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[03Jan2025 03:54:13.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Killed MrPink007]
+[03Jan2025 03:54:13.709] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[03Jan2025 03:54:23.207] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/77657, l='ServerLevel[world]', x=-156.46, y=73.00, z=-59.21] died: Zombie Player was slain by MrPink007
+[03Jan2025 03:57:42.089] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=255, y=-29, z=155}
+[03Jan2025 03:57:42.189] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=254, y=-47, z=188}
+[03Jan2025 03:57:49.492] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=299, y=-11, z=70}
+[03Jan2025 03:57:49.499] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=329, y=-26, z=93}
+[03Jan2025 03:57:50.149] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=236, y=-6, z=57}
+[03Jan2025 03:57:52.694] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=326, y=-19, z=39}
+[03Jan2025 03:57:53.858] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=360, y=-50, z=305}
+[03Jan2025 03:57:57.894] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03Jan2025 03:57:57.895] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03Jan2025 03:58:03.196] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=250, y=-17, z=374}
+[03Jan2025 03:58:07.138] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=130, y=17, z=411}
+[03Jan2025 03:58:07.247] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=197, y=38, z=409}
+[03Jan2025 03:58:07.249] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=248, y=-53, z=412}
+[03Jan2025 03:59:16.191] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=150, y=14, z=418}
+[03Jan2025 03:59:16.415] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=201, y=-51, z=421}
+[03Jan2025 03:59:16.523] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=326, y=-35, z=416}
+[03Jan2025 03:59:54.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> ya le funca?
+[03Jan2025 04:00:03.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> noks
+[03Jan2025 04:00:19.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> reinico el server?
+[03Jan2025 04:00:23.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> mas tarde
+[03Jan2025 04:00:27.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> eso ahorita se cae
+[03Jan2025 04:00:34.493] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=499, y=-18, z=333}
+[03Jan2025 04:01:01.176] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=256, y=-44, z=-10}
+[03Jan2025 04:02:09.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has reached the goal [Big Boy]
+[03Jan2025 04:04:12.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 fell from a high place
+[03Jan2025 04:04:12.657] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 04:04:29.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> como?
+[03Jan2025 04:04:35.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> verga
+[03Jan2025 04:04:38.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> xd
+[03Jan2025 04:04:44.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> comes
+[03Jan2025 04:04:47.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> pero k le pasó
+[03Jan2025 04:04:48.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has completed the challenge [Well, that was disgusting]
+[03Jan2025 04:05:40.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> pues me cai poniendo las vallas de mi casa xd
+[03Jan2025 04:05:51.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> pero y los zapatos de conejo?
+[03Jan2025 04:05:55.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> bayas
+[03Jan2025 04:05:58.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> xd
+[03Jan2025 04:06:07.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> no le dije que no los encontre
+[03Jan2025 04:06:19.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> cuando mori que aparecio mi zombi
+[03Jan2025 04:06:21.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> pues digalo mas duro mkon
+[03Jan2025 04:06:25.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
+[03Jan2025 04:06:27.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> no estaban mis botas
+[03Jan2025 04:10:03.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Dark Forging]
+[03Jan2025 04:11:34.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> alguno tiene dark metal'
+[03Jan2025 04:11:38.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> ?*
+[03Jan2025 04:11:40.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> yo no
+[03Jan2025 04:11:42.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> yo no
+[03Jan2025 04:11:44.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> los nugets
+[03Jan2025 04:11:48.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> chale
+[03Jan2025 04:15:43.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> encontre lobos
+[03Jan2025 04:16:16.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> necesita huesos?
+[03Jan2025 04:16:20.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> alguien va a querer un perro?
+[03Jan2025 04:16:34.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> nop, ya tengo uno, digo por uds
+[03Jan2025 04:16:36.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> nah ya tengo a enrique
+[03Jan2025 04:16:41.246] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[03Jan2025 04:16:41.270] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[03Jan2025 04:16:41.271] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[03Jan2025 04:16:41.279] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[03Jan2025 04:16:46.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> yo tengo un perro culazo
+[03Jan2025 04:16:47.202] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[03Jan2025 04:16:47.203] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[03Jan2025 04:16:47.212] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[03Jan2025 04:16:47.212] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[03Jan2025 04:16:47.212] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[03Jan2025 04:16:47.558] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[03Jan2025 04:16:47.559] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[03Jan2025 04:16:47.696] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1584, y=95, z=-1704}
+[03Jan2025 04:16:50.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> xd
+[03Jan2025 04:16:57.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> uff
+[03Jan2025 04:16:57.393] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1373, y=28, z=-1735}
+[03Jan2025 04:17:00.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> digo xd
+[03Jan2025 04:17:10.201] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Jan2025 04:17:15.844] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1636, y=-28, z=-1615}
+[03Jan2025 04:17:43.742] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1459, y=-50, z=-1786}
+[03Jan2025 04:17:43.837] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1398, y=-11, z=-1784}
+[03Jan2025 04:17:47.545] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1651, y=-53, z=-1697}
+[03Jan2025 04:17:49.137] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1611, y=-24, z=-1798}
+[03Jan2025 04:17:49.140] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1649, y=-37, z=-1801}
+[03Jan2025 04:17:53.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> ah bueno me acabo de acordar
+[03Jan2025 04:17:56.640] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1471, y=24, z=-1831}
+[03Jan2025 04:17:56.642] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1456, y=-40, z=-1840}
+[03Jan2025 04:17:57.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
+[03Jan2025 04:18:02.824] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1449, y=-52, z=-1852}
+[03Jan2025 04:18:05.598] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1485, y=3, z=-1862}
+[03Jan2025 04:18:05.687] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1506, y=-50, z=-1860}
+[03Jan2025 04:18:17.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> anoche el vicio fue larguito
+[03Jan2025 04:18:18.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> yeiiii
+[03Jan2025 04:18:26.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1216, y=-32, z=-1838}
+[03Jan2025 04:18:26.597] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1201, y=-35, z=-1866}
+[03Jan2025 04:18:28.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> eso veo jajajja
+[03Jan2025 04:18:36.618] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1504, y=-49, z=-1883}
+[03Jan2025 04:18:36.619] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1494, y=-13, z=-1881}
