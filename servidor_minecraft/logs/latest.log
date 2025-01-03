@@ -502,3 +502,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [03Jan2025 17:19:46.667] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [03Jan2025 17:19:46.723] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
 [03Jan2025 17:19:46.724] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[03Jan2025 17:30:46.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juandpl18[/127.127.23.159:58005] logged in with entity id 901 at (-252.39665466514003, 124.0, 154.85280157057144)
+[03Jan2025 17:30:46.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 joined the game
+[03Jan2025 17:30:46.749] [Server thread/INFO] [Jade/]: Syncing config to juandpl18 (4e8e65b5-6a17-3235-86c0-0a5058a1c17b)
+[03Jan2025 17:34:48.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juandpl18 lost connection: Disconnected
+[03Jan2025 17:34:48.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 left the game
+[03Jan2025 17:34:48.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Jan2025 17:34:48.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Jan2025 17:34:48.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Jan2025 17:34:48.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Jan2025 17:34:48.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Jan2025 17:34:48.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Jan2025 17:34:48.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Jan2025 17:34:48.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Jan2025 17:34:48.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Jan2025 17:34:48.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Jan2025 17:34:48.866] [Server thread/INFO] [quickstack/]: [quickstack]: Configuration changed.
+[03Jan2025 17:34:48.866] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
