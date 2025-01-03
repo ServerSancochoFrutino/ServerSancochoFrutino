@@ -531,3 +531,93 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [03Jan2025 01:54:30.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> creo que lo que me da lag es la aldea
 [03Jan2025 01:54:51.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> la aldea le da lag
 [03Jan2025 01:55:23.635] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1019, y=32, z=-1236}
+[03Jan2025 01:57:25.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by Gorgon
+[03Jan2025 01:57:25.942] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[03Jan2025 01:58:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Clash of the Titans]
+[03Jan2025 01:59:02.747] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1366, y=16, z=-1650}
+[03Jan2025 01:59:11.399] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=169, y=-44, z=601}
+[03Jan2025 01:59:11.915] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=174, y=-2, z=523}
+[03Jan2025 01:59:11.917] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=171, y=-22, z=551}
+[03Jan2025 01:59:12.988] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=182, y=-40, z=649}
+[03Jan2025 01:59:31.039] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=206, y=-35, z=533}
+[03Jan2025 02:01:32.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Disconnected
+[03Jan2025 02:01:32.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[03Jan2025 02:01:36.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Who You Gonna Call?]
+[03Jan2025 02:01:56.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:47851] logged in with entity id 6263 at (-1246.3917674622573, 67.0, -1464.0486495969033)
+[03Jan2025 02:01:56.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[03Jan2025 02:01:56.178] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[03Jan2025 02:02:29.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[03Jan2025 02:02:29.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[03Jan2025 02:03:12.207] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:38455] logged in with entity id 6762 at (-1235.9055740731114, 64.0, -1462.1230449762988)
+[03Jan2025 02:03:12.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[03Jan2025 02:03:12.231] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[03Jan2025 02:03:57.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> si como que si es discord
+[03Jan2025 02:03:59.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> jajaja
+[03Jan2025 02:04:03.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[03Jan2025 02:04:03.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[03Jan2025 02:04:07.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> o no
+[03Jan2025 02:04:37.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:34117] logged in with entity id 7332 at (-1227.3747925687505, 64.0, -1464.4111298920377)
+[03Jan2025 02:04:37.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[03Jan2025 02:04:37.669] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[03Jan2025 02:05:13.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[03Jan2025 02:05:13.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[03Jan2025 02:05:41.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:60951] logged in with entity id 7856 at (-1236.7088565424947, 64.0, -1459.536264439031)
+[03Jan2025 02:05:41.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[03Jan2025 02:05:41.169] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[03Jan2025 02:06:11.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[03Jan2025 02:06:11.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[03Jan2025 02:06:28.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juandpl18 lost connection: Disconnected
+[03Jan2025 02:06:28.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 left the game
+[03Jan2025 02:06:31.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:59967] logged in with entity id 8421 at (-1264.4272452439184, 64.06564817057587, -1480.271894224046)
+[03Jan2025 02:06:31.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[03Jan2025 02:06:31.264] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[03Jan2025 02:06:55.259] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1494, y=-38, z=-1443}
+[03Jan2025 02:06:56.891] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1441, y=-49, z=-1709}
+[03Jan2025 02:07:19.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juandpl18[/127.127.23.159:44279] logged in with entity id 8849 at (-36.89267008756246, 69.0, 720.3000000119209)
+[03Jan2025 02:07:19.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 joined the game
+[03Jan2025 02:07:19.867] [Server thread/INFO] [Jade/]: Syncing config to juandpl18 (4e8e65b5-6a17-3235-86c0-0a5058a1c17b)
+[03Jan2025 02:07:31.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[03Jan2025 02:07:31.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[03Jan2025 02:07:45.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:54531] logged in with entity id 9416 at (-1307.727829991817, 70.0, -1490.4733906563508)
+[03Jan2025 02:07:45.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[03Jan2025 02:07:45.721] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[03Jan2025 02:08:00.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported Xx0bama228xX to juandpl18]
+[03Jan2025 02:08:11.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> ya?
+[03Jan2025 02:08:19.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> lo saque fuera de la aldea
+[03Jan2025 02:08:47.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has completed the challenge [My Bald Satanic Goth Girl Friend]
+[03Jan2025 02:08:56.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> tal vez
+[03Jan2025 02:09:02.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> y ese logro? xd
+[03Jan2025 02:09:19.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> el zombi de mierda ese qeu se teletransporta y hace clones
+[03Jan2025 02:09:37.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> pense que se habia conseguido con una culotica
+[03Jan2025 02:09:40.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> intentamos discord otra vez?
+[03Jan2025 02:09:43.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> ojala xd
+[03Jan2025 02:10:03.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> todavia ando con un poco de lag
+[03Jan2025 02:10:08.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> a zonas
+[03Jan2025 02:11:01.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx0bama228xX lost connection: Timed out
+[03Jan2025 02:11:01.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX left the game
+[03Jan2025 02:11:14.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx0bama228xX[/127.173.167.133:36919] logged in with entity id 10682 at (-1307.0, 70.0, -1476.0)
+[03Jan2025 02:11:14.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX joined the game
+[03Jan2025 02:11:14.923] [Server thread/INFO] [Jade/]: Syncing config to Xx0bama228xX (33287ac9-b74c-3915-acd3-c3e784be30ab)
+[03Jan2025 02:11:35.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Best Friends Forever]
+[03Jan2025 02:12:03.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
+[03Jan2025 02:12:21.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> lo voy a dejar aqui mientras
+[03Jan2025 02:12:24.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> dele
+[03Jan2025 02:12:34.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> vea mi humilde morada
+[03Jan2025 02:12:51.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> toca que use el ascensor
+[03Jan2025 02:12:59.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> va quedando melita, me gusta el detalle del arbol
+[03Jan2025 02:13:07.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported Xx0bama228xX to juandpl18]
+[03Jan2025 02:13:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> 0;
+[03Jan2025 02:13:28.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> solo sube xd
+[03Jan2025 02:13:28.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> tremebundo
+[03Jan2025 02:13:39.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> pero como tengo las botas de conejo
+[03Jan2025 02:13:43.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> y pa bajar?
+[03Jan2025 02:13:44.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> no tengo daño de caida
+[03Jan2025 02:14:08.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> ahi hice un 3x3 de agua xd
+[03Jan2025 02:14:09.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> tremenda vista
+[03Jan2025 02:14:39.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> quedo perfecto
+[03Jan2025 02:15:00.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> pa que vea xd
+[03Jan2025 02:15:11.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> humilde, la humildad ante todo
+[03Jan2025 02:15:13.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> voy a aprovechar a seguir un mapa del tesoro, queda por aca cerca
+[03Jan2025 02:15:20.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> dele
+[03Jan2025 02:15:28.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> asi si futuro ingeniero
+[03Jan2025 02:15:56.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> ya con el titulo de ingenieria le sabra al redstone
