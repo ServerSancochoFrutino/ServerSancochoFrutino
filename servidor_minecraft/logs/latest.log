@@ -31,3 +31,6 @@
 [03Jan2025 01:04:16.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> buenas, vamos a ver que tal el lag
 [03Jan2025 01:04:35.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> dele discord?
 [03Jan2025 01:04:49.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> see, ya voy a entrar
+[03Jan2025 01:09:23.475] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-606, y=-12, z=-158}
+[03Jan2025 01:14:57.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-734, y=-31, z=-45}
+[03Jan2025 01:15:13.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Ice Bucket Challenge]
