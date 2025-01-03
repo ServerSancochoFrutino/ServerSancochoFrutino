@@ -621,3 +621,161 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [03Jan2025 02:15:20.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> dele
 [03Jan2025 02:15:28.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> asi si futuro ingeniero
 [03Jan2025 02:15:56.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> ya con el titulo de ingenieria le sabra al redstone
+[03Jan2025 02:31:29.739] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-726, y=-47, z=876}
+[03Jan2025 02:32:11.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> obvio pa
+[03Jan2025 02:32:19.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> tp
+[03Jan2025 02:32:21.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> voy al nether por farm
+[03Jan2025 02:32:22.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX drowned
+[03Jan2025 02:32:22.900] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[03Jan2025 02:32:28.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> .-.
+[03Jan2025 02:32:35.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrPink007[/127.192.172.51:48353] logged in with entity id 20260 at (-32.9210976794268, 68.0, 170.8941249928497)
+[03Jan2025 02:32:35.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 joined the game
+[03Jan2025 02:32:35.895] [Server thread/INFO] [Jade/]: Syncing config to MrPink007 (4b7fc805-1d3f-3487-a3e3-825e1ec6667f)
+[03Jan2025 02:32:42.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> buenas mi pana
+[03Jan2025 02:32:44.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> xd
+[03Jan2025 02:32:47.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> buenas
+[03Jan2025 02:32:53.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> buenas
+[03Jan2025 02:32:55.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> llegó la fucking bestia del farmeo
+[03Jan2025 02:33:03.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> voy al nether por bloques viene?
+[03Jan2025 02:33:21.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> ???
+[03Jan2025 02:33:28.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> yo ando en mina
+[03Jan2025 02:33:29.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> brv
+[03Jan2025 02:33:35.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3523ms or 70 ticks behind
+[03Jan2025 02:34:02.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [We Need to Go Deeper]
+[03Jan2025 02:34:02.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Incendium]
+[03Jan2025 02:34:02.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
+[03Jan2025 02:34:02.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Hellish Paradise]
+[03Jan2025 02:34:02.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Strange Biomes]
+[03Jan2025 02:34:14.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> k material busca
+[03Jan2025 02:34:21.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> el luminoso xd
+[03Jan2025 02:34:33.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has reached the goal [An Illager Refuge?]
+[03Jan2025 02:34:33.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> esta viendo eso en el mapa
+[03Jan2025 02:34:42.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> ya estoy ahí
+[03Jan2025 02:34:49.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21915, l='ServerLevel[world]', x=-388.49, y=56.00, z=262.65] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:34:51.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to MrPink007]
+[03Jan2025 02:34:51.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has reached the goal [An Illager Refuge?]
+[03Jan2025 02:34:54.102] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-53, z=95}
+[03Jan2025 02:34:54.236] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-51, z=121}
+[03Jan2025 02:34:55.040] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-44, y=-51, z=121}
+[03Jan2025 02:34:55.041] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-51, z=121}
+[03Jan2025 02:34:57.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/22018, l='ServerLevel[world]', x=-396.12, y=56.50, z=261.20] died: Sanctum Cultist was burnt to a crisp whilst fighting MrPink007
+[03Jan2025 02:35:02.089] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-44, y=-51, z=112}
+[03Jan2025 02:35:02.090] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-51, z=112}
+[03Jan2025 02:35:02.890] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-197, y=-53, z=89}
+[03Jan2025 02:35:03.035] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-51, z=112}
+[03Jan2025 02:35:03.113] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/22017, l='ServerLevel[world]', x=-400.54, y=55.00, z=254.70] died: Sanctum Cultist was slain by juandpl18
+[03Jan2025 02:35:05.294] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/21914, l='ServerLevel[world]', x=-402.41, y=55.00, z=260.58] died: Sanctum Protector was burnt to a crisp whilst fighting MrPink007
+[03Jan2025 02:35:06.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21754, l='ServerLevel[world]', x=-395.99, y=56.00, z=258.95] died: Sanctum Cultist was slain by juandpl18
+[03Jan2025 02:35:09.368] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[03Jan2025 02:35:18.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/22006, l='ServerLevel[world]', x=-404.00, y=61.00, z=250.49] died: Sanctum Protector was slain by juandpl18
+[03Jan2025 02:35:19.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/22004, l='ServerLevel[world]', x=-406.27, y=62.00, z=250.30] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:35:28.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/22005, l='ServerLevel[world]', x=-399.06, y=68.00, z=258.30] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:35:33.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/22019, l='ServerLevel[world]', x=-400.70, y=71.00, z=258.30] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:35:39.225] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/22003, l='ServerLevel[world]', x=-405.56, y=74.80, z=254.35] died: Sanctum Protector was slain by MrPink007
+[03Jan2025 02:36:01.505] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/21916, l='ServerLevel[world]', x=-380.03, y=74.00, z=258.01] died: Sanctum Protector was killed by magic whilst trying to escape juandpl18
+[03Jan2025 02:36:06.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21841, l='ServerLevel[world]', x=-381.70, y=74.00, z=250.30] died: Sanctum Cultist was slain by juandpl18
+[03Jan2025 02:36:07.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Voluntary Exile]
+[03Jan2025 02:36:07.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Apostle'/22001, l='ServerLevel[world]', x=-378.75, y=44.00, z=257.26] died: Sanctum Apostle was doomed to fall by MrPink007
+[03Jan2025 02:36:09.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21753, l='ServerLevel[world]', x=-375.58, y=55.50, z=260.61] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:36:19.753] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21930, l='ServerLevel[world]', x=-400.70, y=43.00, z=253.44] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:36:23.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has reached the goal [Fortuitous Militia]
+[03Jan2025 02:36:23.591] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21912, l='ServerLevel[world]', x=-399.32, y=43.00, z=251.30] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:36:35.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21911, l='ServerLevel[world]', x=-374.96, y=45.50, z=252.37] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:36:49.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/22014, l='ServerLevel[world]', x=-381.95, y=43.00, z=252.94] died: Sanctum Cultist burned to death
+[03Jan2025 02:37:05.061] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/22022, l='ServerLevel[world]', x=-385.82, y=49.00, z=177.41] died: Sanctum Protector was slain by MrPink007
+[03Jan2025 02:37:07.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Sanctum Protector
+[03Jan2025 02:37:07.977] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[03Jan2025 02:37:12.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> son muchos kjaskjsa
+[03Jan2025 02:37:28.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Apostle'/22024, l='ServerLevel[world]', x=-391.95, y=49.64, z=176.50] died: Sanctum Apostle was slain by MrPink007
+[03Jan2025 02:37:37.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Not Today, Thank You]
+[03Jan2025 02:37:38.309] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/21818, l='ServerLevel[world]', x=-385.64, y=49.00, z=176.24] died: Sanctum Protector was burnt to a crisp whilst fighting Sanctum Apostle
+[03Jan2025 02:37:44.223] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/22027, l='ServerLevel[world]', x=-394.60, y=49.00, z=177.04] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:37:44.351] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Apostle'/21938, l='ServerLevel[world]', x=-388.70, y=49.00, z=177.83] died: Sanctum Apostle burned to death
+[03Jan2025 02:37:47.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Apostle'/21817, l='ServerLevel[world]', x=-389.47, y=49.00, z=176.40] died: Sanctum Apostle was slain by MrPink007
+[03Jan2025 02:37:48.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/22023, l='ServerLevel[world]', x=-390.91, y=49.00, z=177.41] died: Sanctum Cultist was burnt to a crisp whilst fighting MrPink007
+[03Jan2025 02:37:52.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21816, l='ServerLevel[world]', x=-392.70, y=49.00, z=178.07] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:37:53.961] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/22025, l='ServerLevel[world]', x=-395.75, y=49.00, z=175.49] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:38:01.205] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/21937, l='ServerLevel[world]', x=-400.92, y=45.00, z=192.10] died: Sanctum Protector was slain by MrPink007
+[03Jan2025 02:38:04.503] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21838, l='ServerLevel[world]', x=-400.57, y=45.00, z=185.67] died: Sanctum Cultist was shot by Sanctum Cultist
+[03Jan2025 02:38:08.552] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Apostle'/21936, l='ServerLevel[world]', x=-399.97, y=45.00, z=187.91] died: Sanctum Apostle was slain by MrPink007
+[03Jan2025 02:38:11.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Apostle'/21935, l='ServerLevel[world]', x=-400.43, y=45.00, z=186.45] died: Sanctum Apostle was shot by Sanctum Cultist
+[03Jan2025 02:38:16.393] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21727, l='ServerLevel[world]', x=-389.50, y=45.75, z=184.70] died: Sanctum Cultist was burnt to a crisp whilst fighting Sanctum Cultist
+[03Jan2025 02:38:18.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21943, l='ServerLevel[world]', x=-391.31, y=45.13, z=195.75] died: Sanctum Cultist burned to death
+[03Jan2025 02:38:21.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21942, l='ServerLevel[world]', x=-392.70, y=45.00, z=194.41] died: Sanctum Cultist was shot by Sanctum Cultist
+[03Jan2025 02:38:28.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21811, l='ServerLevel[world]', x=-388.61, y=45.00, z=191.54] died: Sanctum Cultist was shot by Sanctum Cultist
+[03Jan2025 02:38:32.043] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21959, l='ServerLevel[world]', x=-388.46, y=47.00, z=186.59] died: Sanctum Cultist burned to death
+[03Jan2025 02:39:11.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> leprechaun
+[03Jan2025 02:39:16.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported MrPink007 to juandpl18]
+[03Jan2025 02:39:27.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> por donde estaba yo habian muchos
+[03Jan2025 02:39:33.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> tiene fatiga minera?
+[03Jan2025 02:39:36.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/21927, l='ServerLevel[world]', x=-394.91, y=37.00, z=217.67] died: Sanctum Inquisitor went up in flames
+[03Jan2025 02:39:40.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/22021, l='ServerLevel[world]', x=-387.50, y=45.00, z=190.15] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:39:43.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21953, l='ServerLevel[world]', x=-386.51, y=45.00, z=193.08] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:39:44.601] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21823, l='ServerLevel[world]', x=-388.48, y=43.50, z=196.89] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:39:47.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21832, l='ServerLevel[world]', x=-387.84, y=43.06, z=202.77] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:39:51.152] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/21913, l='ServerLevel[world]', x=-396.87, y=43.00, z=254.53] died: Sanctum Protector was shot by Sanctum Cultist
+[03Jan2025 02:40:03.999] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21956, l='ServerLevel[world]', x=-397.77, y=43.06, z=201.19] died: Sanctum Cultist burned to death
+[03Jan2025 02:40:16.452] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/21834, l='ServerLevel[world]', x=-391.75, y=43.00, z=255.98] died: Sanctum Protector was shot by Sanctum Cultist
+[03Jan2025 02:40:17.401] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21840, l='ServerLevel[world]', x=-391.49, y=43.00, z=262.07] died: Sanctum Cultist was shot by Sanctum Cultist
+[03Jan2025 02:40:24.050] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/22013, l='ServerLevel[world]', x=-390.47, y=43.00, z=255.21] died: Sanctum Protector was killed by magic whilst trying to escape Sanctum Cultist
+[03Jan2025 02:40:24.051] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21726, l='ServerLevel[world]', x=-391.02, y=43.00, z=254.73] died: Sanctum Cultist was killed by magic whilst trying to escape juandpl18
+[03Jan2025 02:40:25.806] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21837, l='ServerLevel[world]', x=-388.50, y=43.06, z=253.51] died: death.attack.player.player
+[03Jan2025 02:40:26.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21955, l='ServerLevel[world]', x=-395.71, y=43.00, z=253.71] died: Sanctum Cultist was slain by juandpl18
+[03Jan2025 02:40:30.902] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21835, l='ServerLevel[world]', x=-403.60, y=43.00, z=260.06] died: Sanctum Cultist was slain by juandpl18
+[03Jan2025 02:40:33.127] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21909, l='ServerLevel[world]', x=-397.64, y=43.00, z=258.53] died: Sanctum Cultist was slain by juandpl18
+[03Jan2025 02:40:36.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21908, l='ServerLevel[world]', x=-389.57, y=43.00, z=253.89] died: Sanctum Cultist was slain by juandpl18
+[03Jan2025 02:40:37.353] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/22020, l='ServerLevel[world]', x=-403.36, y=45.00, z=184.28] died: Sanctum Cultist was shot by MrPink007
+[03Jan2025 02:40:39.311] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21681, l='ServerLevel[world]', x=-396.68, y=43.00, z=261.70] died: Sanctum Cultist was slain by juandpl18
+[03Jan2025 02:40:47.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21928, l='ServerLevel[world]', x=-403.70, y=45.00, z=183.30] died: Sanctum Cultist was shot by MrPink007
+[03Jan2025 02:40:47.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21960, l='ServerLevel[world]', x=-403.70, y=45.00, z=183.89] died: Sanctum Cultist was shot by MrPink007
+[03Jan2025 02:40:51.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/21958, l='ServerLevel[world]', x=-393.98, y=43.06, z=234.49] died: Sanctum Protector was slain by juandpl18
+[03Jan2025 02:40:51.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21957, l='ServerLevel[world]', x=-403.70, y=45.00, z=183.78] died: Sanctum Cultist was shot by MrPink007
+[03Jan2025 02:40:51.954] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21725, l='ServerLevel[world]', x=-403.57, y=45.00, z=184.22] died: Sanctum Cultist was shot by MrPink007
+[03Jan2025 02:40:54.548] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21945, l='ServerLevel[world]', x=-403.36, y=45.00, z=184.12] died: Sanctum Cultist was shot by MrPink007
+[03Jan2025 02:41:00.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-401, y=43, z=246} BlockPos{x=-402, y=43, z=247}
+[03Jan2025 02:41:27.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Sanctum Ritualist'/21824, l='ServerLevel[world]', x=-388.19, y=43.06, z=216.98] died: Sanctum Ritualist was slain by juandpl18
+[03Jan2025 02:41:29.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/21825, l='ServerLevel[world]', x=-389.27, y=43.06, z=212.37] died: Sanctum Protector was slain by MrPink007
+[03Jan2025 02:41:38.750] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21822, l='ServerLevel[world]', x=-388.04, y=43.06, z=206.96] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:41:48.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Illusioner['Sanctum Illusionist'/21910, l='ServerLevel[world]', x=-396.95, y=44.00, z=242.07] died: Sanctum Illusionist was slain by MrPink007
+[03Jan2025 02:41:57.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Illusioner['Sanctum Illusionist'/21932, l='ServerLevel[world]', x=-383.04, y=43.50, z=231.29] died: Sanctum Illusionist was killed by magic
+[03Jan2025 02:42:08.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/21944, l='ServerLevel[world]', x=-398.47, y=43.00, z=198.49] died: Sanctum Protector was slain by juandpl18
+[03Jan2025 02:42:14.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/21812, l='ServerLevel[world]', x=-388.29, y=43.79, z=200.45] died: Sanctum Protector was slain by MrPink007
+[03Jan2025 02:42:33.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> ???
+[03Jan2025 02:42:41.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> vaya mrd de loot
+[03Jan2025 02:42:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> xd
+[03Jan2025 02:43:04.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> me llevolas varas de luz
+[03Jan2025 02:43:14.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> no tiene fatiga minera?
+[03Jan2025 02:43:20.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/21820, l='ServerLevel[world]', x=-378.50, y=67.00, z=176.89] died: Sanctum Protector was slain by MrPink007
+[03Jan2025 02:43:24.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21819, l='ServerLevel[world]', x=-381.19, y=67.06, z=180.77] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:43:26.800] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21939, l='ServerLevel[world]', x=-379.30, y=67.00, z=176.04] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:43:30.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21821, l='ServerLevel[world]', x=-380.84, y=67.00, z=175.30] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:43:32.501] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/21766, l='ServerLevel[world]', x=-381.70, y=67.00, z=175.82] died: Sanctum Cultist was slain by MrPink007
+[03Jan2025 02:44:35.459] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@678d2170]Trying to start horde event on day 20 with nextDay 20 and time 18397
+[03Jan2025 02:44:35.463] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@345e5ec9
+[03Jan2025 02:44:35.467] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[03Jan2025 02:44:35.467] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[03Jan2025 02:44:35.510] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 02:44:35.511] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 02:44:35.511] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 02:44:35.512] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 02:44:40.358] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/21728, l='ServerLevel[world]', x=-361.32, y=40.58, z=269.18] died: death.attack.player.player
+[03Jan2025 02:45:10.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Illusioner['Sanctum Illusionist'/21680, l='ServerLevel[world]', x=-361.70, y=42.00, z=231.30] died: Sanctum Illusionist was slain by juandpl18
+[03Jan2025 02:45:25.519] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 02:45:25.519] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 02:45:25.520] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 02:45:25.520] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 02:45:33.358] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=-45, z=70}
+[03Jan2025 02:45:33.359] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=-45, z=71}
+[03Jan2025 02:45:33.359] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=-45, z=72}
+[03Jan2025 02:45:33.360] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=-45, z=69}
+[03Jan2025 02:45:35.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [The Floor is Tears]
+[03Jan2025 02:45:38.084] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-54, z=56}
+[03Jan2025 02:45:38.953] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-51, z=70}
+[03Jan2025 02:45:43.138] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-51, z=53}
+[03Jan2025 02:45:44.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[03Jan2025 02:46:17.516] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 02:46:17.517] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 02:46:17.518] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 02:46:17.518] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 02:46:46.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ravager['Sanctum Ravager'/27423, l='ServerLevel[world]', x=-448.16, y=36.06, z=453.16] died: Sanctum Ravager suffocated in a wall
+[03Jan2025 02:46:51.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-681, y=53, z=300}
