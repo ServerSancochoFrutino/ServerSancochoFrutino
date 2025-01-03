@@ -3240,75 +3240,105 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 22:04:47 +0000"
+      "log_spam_fixer": "2025-01-03 22:14:47 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 22:04:47 +0000"
+      "log_spam_fixer": "2025-01-03 22:14:47 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 22:04:47 +0000"
+      "log_spam_fixer": "2025-01-03 22:14:47 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 22:04:47 +0000"
+      "log_spam_fixer": "2025-01-03 22:14:47 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 22:04:47 +0000"
+      "log_spam_fixer": "2025-01-03 22:14:47 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 22:04:47 +0000"
+      "log_spam_fixer": "2025-01-03 22:14:47 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 22:04:47 +0000"
+      "log_spam_fixer": "2025-01-03 22:14:47 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 22:04:47 +0000"
+      "log_spam_fixer": "2025-01-03 22:14:47 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 22:04:47 +0000"
+      "log_spam_fixer": "2025-01-03 22:14:47 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 22:04:47 +0000"
+      "log_spam_fixer": "2025-01-03 22:14:47 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 22:04:47 +0000"
+      "log_spam_fixer": "2025-01-03 22:14:47 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 22:04:47 +0000"
+      "log_spam_fixer": "2025-01-03 22:14:47 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-03 22:05:08 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-01-03 22:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-03 22:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-03 22:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-03 22:05:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
