@@ -276,6 +276,7 @@
       "minecraft:spider": "2024-12-30 04:34:48 +0000",
       "minecraft:creeper": "2024-12-31 01:12:51 +0000",
       "minecraft:evoker": "2025-01-03 02:41:27 +0000",
+      "minecraft:zombified_piglin": "2025-01-03 02:52:37 +0000",
       "minecraft:husk": "2024-12-31 04:57:15 +0000",
       "minecraft:cave_spider": "2024-12-30 03:41:36 +0000",
       "minecraft:vex": "2025-01-03 02:37:22 +0000",
@@ -3262,74 +3263,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 02:46:20 +0000"
+      "log_spam_fixer": "2025-01-03 03:06:22 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 02:46:20 +0000"
+      "log_spam_fixer": "2025-01-03 03:06:22 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 02:46:20 +0000"
+      "log_spam_fixer": "2025-01-03 03:06:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-01-03 02:46:25 +0000",
-      "log_spam_fixer": "2025-01-03 02:46:20 +0000"
+      "requirement": "2025-01-03 03:06:22 +0000",
+      "log_spam_fixer": "2025-01-03 03:06:22 +0000"
     },
     "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 02:46:20 +0000"
+      "log_spam_fixer": "2025-01-03 03:06:22 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 02:46:20 +0000"
+      "log_spam_fixer": "2025-01-03 03:06:22 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 02:46:20 +0000"
+      "log_spam_fixer": "2025-01-03 03:06:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 02:46:20 +0000"
+      "log_spam_fixer": "2025-01-03 03:06:22 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 02:46:20 +0000"
+      "log_spam_fixer": "2025-01-03 03:06:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 02:46:20 +0000"
+      "log_spam_fixer": "2025-01-03 03:06:22 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 02:46:20 +0000"
+      "log_spam_fixer": "2025-01-03 03:06:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 02:46:20 +0000"
+      "log_spam_fixer": "2025-01-03 03:06:22 +0000"
     },
     "done": false
   },
@@ -3366,6 +3367,12 @@
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2025-01-03 02:44:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-03 03:04:53 +0000"
     },
     "done": true
   },
