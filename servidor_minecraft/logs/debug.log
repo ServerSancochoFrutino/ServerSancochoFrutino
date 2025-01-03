@@ -5354,3 +5354,227 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [03Jan2025 03:07:18.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by Fire Dragon
 [03Jan2025 03:07:18.584] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xx0bama228xX was created at position [x:-607, y:12, z:704, dim:minecraft:overworld]
 [03Jan2025 03:07:18.595] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[03Jan2025 03:07:37.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Fire Dragon
+[03Jan2025 03:07:37.498] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:07:41.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[03Jan2025 03:07:42.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to Xx0bama228xX]
+[03Jan2025 03:07:53.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 suffocated in a wall whilst fighting Fire Dragon
+[03Jan2025 03:07:53.643] [Server thread/DEBUG] [tombstone/]: A new grave of the player MrPink007 was created at position [x:-598, y:9, z:716, dim:minecraft:overworld]
+[03Jan2025 03:07:53.644] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[03Jan2025 03:08:23.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 burned to death
+[03Jan2025 03:08:23.994] [Server thread/DEBUG] [tombstone/]: A new grave of the player MrPink007 was created at position [x:-561, y:-11, z:712, dim:minecraft:overworld]
+[03Jan2025 03:08:23.998] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[03Jan2025 03:08:35.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Fire Dragon
+[03Jan2025 03:08:35.383] [Server thread/DEBUG] [tombstone/]: A new grave of the player juandpl18 was created at position [x:-563, y:-1, z:716, dim:minecraft:overworld]
+[03Jan2025 03:08:35.396] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:08:51.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Fire Dragon
+[03Jan2025 03:08:51.285] [Server thread/DEBUG] [tombstone/]: A new grave of the player juandpl18 was created at position [x:-559, y:0, z:721, dim:minecraft:overworld]
+[03Jan2025 03:08:51.298] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:09:00.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[03Jan2025 03:09:12.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
+[03Jan2025 03:09:18.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to Xx0bama228xX]
+[03Jan2025 03:09:30.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> murio?
+[03Jan2025 03:10:06.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> murio?
+[03Jan2025 03:10:13.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
+[03Jan2025 03:10:19.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Fire Dragon
+[03Jan2025 03:10:19.136] [Server thread/DEBUG] [tombstone/]: A new grave of the player juandpl18 was created at position [x:-562, y:67, z:697, dim:minecraft:overworld]
+[03Jan2025 03:10:19.149] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:10:22.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was incinerated by Fire Dragon
+[03Jan2025 03:10:22.736] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xx0bama228xX was created at position [x:-565, y:65, z:695, dim:minecraft:overworld]
+[03Jan2025 03:10:22.776] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[03Jan2025 03:10:41.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was turned into KFC by Fire Dragon
+[03Jan2025 03:10:41.283] [Server thread/DEBUG] [tombstone/]: A new grave of the player juandpl18 was created at position [x:-605, y:67, z:703, dim:minecraft:overworld]
+[03Jan2025 03:10:41.296] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:10:48.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> xd
+[03Jan2025 03:10:51.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was burnt to a crisp whilst fighting Fire Dragon
+[03Jan2025 03:10:51.942] [Server thread/DEBUG] [tombstone/]: A new grave of the player MrPink007 was created at position [x:-605, y:67, z:703, dim:minecraft:overworld]
+[03Jan2025 03:10:51.944] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[03Jan2025 03:10:58.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Fire Dragon
+[03Jan2025 03:10:58.184] [Server thread/DEBUG] [tombstone/]: A new grave of the player juandpl18 was created at position [x:-613, y:66, z:699, dim:minecraft:overworld]
+[03Jan2025 03:10:58.202] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:11:03.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by Fire Dragon
+[03Jan2025 03:11:03.736] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xx0bama228xX was created at position [x:-608, y:64, z:688, dim:minecraft:overworld]
+[03Jan2025 03:11:03.762] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[03Jan2025 03:11:14.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Fire Dragon
+[03Jan2025 03:11:14.684] [Server thread/DEBUG] [tombstone/]: A new grave of the player juandpl18 was created at position [x:-622, y:67, z:703, dim:minecraft:overworld]
+[03Jan2025 03:11:14.695] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:11:31.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was burnt to a crisp whilst fighting Fire Dragon
+[03Jan2025 03:11:31.091] [Server thread/DEBUG] [tombstone/]: A new grave of the player MrPink007 was created at position [x:-613, y:45, z:718, dim:minecraft:overworld]
+[03Jan2025 03:11:31.092] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[03Jan2025 03:11:35.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Fire Dragon
+[03Jan2025 03:11:35.434] [Server thread/DEBUG] [tombstone/]: A new grave of the player juandpl18 was created at position [x:-556, y:69, z:715, dim:minecraft:overworld]
+[03Jan2025 03:11:35.449] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:11:39.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[03Jan2025 03:11:43.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was incinerated by Fire Dragon
+[03Jan2025 03:11:43.734] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xx0bama228xX was created at position [x:-571, y:64, z:717, dim:minecraft:overworld]
+[03Jan2025 03:11:43.746] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[03Jan2025 03:11:59.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Fire Dragon
+[03Jan2025 03:11:59.852] [Server thread/DEBUG] [tombstone/]: A new grave of the player MrPink007 was created at position [x:-567, y:67, z:707, dim:minecraft:overworld]
+[03Jan2025 03:11:59.880] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[03Jan2025 03:12:00.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Fire Dragon
+[03Jan2025 03:12:00.093] [Server thread/DEBUG] [tombstone/]: A new grave of the player juandpl18 was created at position [x:-563, y:68, z:711, dim:minecraft:overworld]
+[03Jan2025 03:12:00.112] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:12:00.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:12:00.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:12:12.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> matelo obama
+[03Jan2025 03:12:17.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> deje que obama lo mate
+[03Jan2025 03:12:20.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Fire Dragon
+[03Jan2025 03:12:20.933] [Server thread/DEBUG] [tombstone/]: A new grave of the player juandpl18 was created at position [x:-584, y:65, z:693, dim:minecraft:overworld]
+[03Jan2025 03:12:20.945] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:12:21.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Dragonslayer]
+[03Jan2025 03:12:22.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> k no le falta anda
+[03Jan2025 03:12:30.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[03Jan2025 03:12:47.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> obama no era el del daño?
+[03Jan2025 03:12:53.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> yipiiiii
+[03Jan2025 03:13:01.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> que paso
+[03Jan2025 03:13:07.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> el de daño, no el de defensa
+[03Jan2025 03:13:14.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> me la pase espameando la hanilidad mia todo el rato
+[03Jan2025 03:13:15.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> entre el dragon y sus ataques en area
+[03Jan2025 03:13:17.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> jajajaj a
+[03Jan2025 03:13:39.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX has made the advancement [Mother of Dragons]
+[03Jan2025 03:13:43.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> no le saco la sangue obama?
+[03Jan2025 03:13:48.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> sacaron la sangre?
+[03Jan2025 03:13:59.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> ahhhhhhhhhhhhh!!!!!!!!!
+[03Jan2025 03:14:08.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> les dije{
+[03Jan2025 03:14:18.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> toco al del rayo
+[03Jan2025 03:14:37.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> es de fuego
+[03Jan2025 03:14:56.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was turned into KFC by Fire Dragon
+[03Jan2025 03:14:56.093] [Server thread/DEBUG] [tombstone/]: A new grave of the player juandpl18 was created at position [x:-525, y:101, z:794, dim:minecraft:overworld]
+[03Jan2025 03:14:56.114] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:15:01.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> donde estan?
+[03Jan2025 03:15:17.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> ando revisando los cofres
+[03Jan2025 03:15:30.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was incinerated by Fire Dragon
+[03Jan2025 03:15:30.569] [Server thread/DEBUG] [tombstone/]: A new grave of the player juandpl18 was created at position [x:-525, y:99, z:788, dim:minecraft:overworld]
+[03Jan2025 03:15:30.581] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:15:49.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> encontraron otro
+[03Jan2025 03:15:52.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> ?
+[03Jan2025 03:16:06.213] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-676, y=33, z=1029}
+[03Jan2025 03:16:06.342] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-712, y=-3, z=1044}
+[03Jan2025 03:16:27.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by MrPink007
+[03Jan2025 03:16:27.299] [Server thread/DEBUG] [tombstone/]: A new grave of the player juandpl18 was created at position [x:-503, y:107, z:858, dim:minecraft:overworld]
+[03Jan2025 03:16:27.305] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:16:35.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was burnt to a crisp whilst fighting Fire Dragon
+[03Jan2025 03:16:35.396] [Server thread/DEBUG] [tombstone/]: A new grave of the player MrPink007 was created at position [x:-493, y:103, z:871, dim:minecraft:overworld]
+[03Jan2025 03:16:35.397] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[03Jan2025 03:16:52.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Fire Dragon
+[03Jan2025 03:16:52.239] [Server thread/DEBUG] [tombstone/]: A new grave of the player juandpl18 was created at position [x:-492, y:108, z:894, dim:minecraft:overworld]
+[03Jan2025 03:16:52.258] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:17:00.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:17:00.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:17:06.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was burnt to a crisp whilst fighting Fire Dragon
+[03Jan2025 03:17:06.897] [Server thread/DEBUG] [tombstone/]: A new grave of the player MrPink007 was created at position [x:-488, y:106, z:906, dim:minecraft:overworld]
+[03Jan2025 03:17:06.898] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[03Jan2025 03:17:15.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> muerto
+[03Jan2025 03:17:20.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> tiene botellas?
+[03Jan2025 03:17:52.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> el dragon madre me dejo sin armadura xd
+[03Jan2025 03:18:08.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> ya saqué la sangre
+[03Jan2025 03:18:16.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> a ya?
+[03Jan2025 03:18:21.289] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-638, y=-39, z=1109}
+[03Jan2025 03:18:26.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> hace rato
+[03Jan2025 03:18:38.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> obama tiene escamas
+[03Jan2025 03:18:43.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> yep
+[03Jan2025 03:18:48.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[03Jan2025 03:18:56.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> paseme escamas
+[03Jan2025 03:19:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
+[03Jan2025 03:19:14.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> grax
+[03Jan2025 03:19:21.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> ahi le tiré las que tenia
+[03Jan2025 03:19:28.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> le hago su armadura de una vez?
+[03Jan2025 03:19:33.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> see
+[03Jan2025 03:19:38.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> plox
+[03Jan2025 03:19:40.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> listo
+[03Jan2025 03:20:15.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [The Dust Settles]
+[03Jan2025 03:20:35.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> increible que en estos cofres no hubiera nada
+[03Jan2025 03:20:39.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[03Jan2025 03:21:15.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was slain by Zombified Piglin
+[03Jan2025 03:21:15.298] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[03Jan2025 03:21:15.304] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[03Jan2025 03:21:21.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> me carga la vrg
+[03Jan2025 03:21:27.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> ya voy
+[03Jan2025 03:21:27.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> tenkiu
+[03Jan2025 03:21:39.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to MrPink007]
+[03Jan2025 03:21:52.750] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/57367, l='ServerLevel[world]', x=-449.70, y=32.00, z=783.00] died: Zombie Player was doomed to fall
+[03Jan2025 03:22:00.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:22:00.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:22:02.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [The Floor is Tears]
+[03Jan2025 03:22:07.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> sus cosas
+[03Jan2025 03:22:11.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 was doomed to fall
+[03Jan2025 03:22:11.603] [Server thread/WARN] [tombstone/]: The drop event of the player MrPink007 was canceled by another mod
+[03Jan2025 03:22:11.604] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[03Jan2025 03:22:16.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
+[03Jan2025 03:22:23.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MrPink007'/57842, l='ServerLevel[world]', x=-445.44, y=32.00, z=786.23] died: Zombie Player was slain by juandpl18
+[03Jan2025 03:22:43.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> tiene artifacts?
+[03Jan2025 03:23:04.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> grax
+[03Jan2025 03:23:05.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> yo ando buscando el doble salto y las botas de conejo
+[03Jan2025 03:23:22.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to Xx0bama228xX]
+[03Jan2025 03:23:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
+[03Jan2025 03:23:33.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
+[03Jan2025 03:24:01.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [Splintering II]
+[03Jan2025 03:24:10.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by Lifestealer
+[03Jan2025 03:24:10.643] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xx0bama228xX was created at position [x:-650, y:1, z:711, dim:minecraft:overworld]
+[03Jan2025 03:24:10.648] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[03Jan2025 03:24:11.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has made the advancement [A Flaming Sword]
+[03Jan2025 03:24:15.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
+[03Jan2025 03:24:17.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> peña tiene la sandre
+[03Jan2025 03:24:19.601] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4f4bb24d]Trying to start horde event on day 20 with nextDay 20 and time 18000
+[03Jan2025 03:24:19.602] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@1472cb2e
+[03Jan2025 03:24:19.603] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[03Jan2025 03:24:19.603] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[03Jan2025 03:24:19.646] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 03:24:19.646] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 03:24:19.646] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 03:24:19.647] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 03:24:20.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
+[03Jan2025 03:24:31.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to MrPink007]
+[03Jan2025 03:24:32.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Lifestealer
+[03Jan2025 03:24:32.289] [Server thread/WARN] [tombstone/]: The drop event of the player juandpl18 was canceled by another mod
+[03Jan2025 03:24:32.294] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:24:41.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to MrPink007]
+[03Jan2025 03:24:44.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 withered away
+[03Jan2025 03:24:44.842] [Server thread/DEBUG] [tombstone/]: A new grave of the player MrPink007 was created at position [x:-663, y:4, z:682, dim:minecraft:overworld]
+[03Jan2025 03:24:44.849] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[03Jan2025 03:24:53.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 was slain by Lifestealer
+[03Jan2025 03:24:53.305] [Server thread/INFO] [tombstone/]: The player juandpl18 has successfully been saved
+[03Jan2025 03:24:57.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juandpl18: Teleported juandpl18 to MrPink007]
+[03Jan2025 03:25:07.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['juandpl18'/59299, l='ServerLevel[world]', x=-653.53, y=2.00, z=669.64] died: Zombie Player was slain by MrPink007
+[03Jan2025 03:25:09.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX was slain by Lifestealer
+[03Jan2025 03:25:09.837] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xx0bama228xX was created at position [x:-648, y:3, z:671, dim:minecraft:overworld]
+[03Jan2025 03:25:09.851] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[03Jan2025 03:25:14.899] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 03:25:14.900] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 03:25:14.900] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 03:25:14.900] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 03:25:17.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
+[03Jan2025 03:25:22.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 withered away whilst fighting Lifestealer
+[03Jan2025 03:25:22.391] [Server thread/DEBUG] [tombstone/]: A new grave of the player MrPink007 was created at position [x:-650, y:7, z:662, dim:minecraft:overworld]
+[03Jan2025 03:25:22.396] [Server thread/INFO] [tombstone/]: The player MrPink007 has successfully been saved
+[03Jan2025 03:25:42.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx0bama228xX withered away whilst fighting Lifestealer
+[03Jan2025 03:25:42.040] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xx0bama228xX was created at position [x:-635, y:2, z:681, dim:minecraft:overworld]
+[03Jan2025 03:25:42.042] [Server thread/INFO] [tombstone/]: The player Xx0bama228xX has successfully been saved
+[03Jan2025 03:25:43.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPink007 has reached the goal [Horror Under the Mantle]
+[03Jan2025 03:25:43.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Dark Metallurgy]
+[03Jan2025 03:25:48.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx0bama228xX: Teleported Xx0bama228xX to juandpl18]
+[03Jan2025 03:26:04.896] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 03:26:04.896] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 03:26:04.896] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 03:26:04.897] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 03:26:05.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> xd
+[03Jan2025 03:26:18.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> y mis botas
+[03Jan2025 03:26:23.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> y el doble salto¡
+[03Jan2025 03:26:27.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> ?
+[03Jan2025 03:26:37.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx0bama228xX> no las tengo
+[03Jan2025 03:26:48.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> no las tengo x2
+[03Jan2025 03:26:54.899] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 03:26:54.900] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 03:26:54.901] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 03:26:54.901] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 03:26:58.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrPink007: Teleported MrPink007 to juandpl18]
+[03Jan2025 03:27:00.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:27:00.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:27:26.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juandpl18> encontre el dobe salto
+[03Jan2025 03:27:42.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> tiene la sangre de dragon?
+[03Jan2025 03:27:44.900] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 03:27:44.900] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[03Jan2025 03:27:44.900] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 03:27:44.900] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[03Jan2025 03:27:44.905] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4f4bb24d]Can't spawn wave because max cap has been reached
+[03Jan2025 03:27:45.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrPink007> pq si no valió queso
