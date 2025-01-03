@@ -16,3 +16,11 @@
 [03Jan2025 00:08:23.734] [Server thread/INFO] [Jade/]: Syncing config to juandpl18 (4e8e65b5-6a17-3235-86c0-0a5058a1c17b)
 [03Jan2025 00:09:23.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juandpl18 lost connection: Timed out
 [03Jan2025 00:09:23.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 left the game
+[03Jan2025 00:32:47.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juandpl18[/127.127.23.159:50669] logged in with entity id 1912 at (-216.39069290169442, 123.0, 141.16783633094036)
+[03Jan2025 00:32:47.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 joined the game
+[03Jan2025 00:32:47.662] [Server thread/INFO] [Jade/]: Syncing config to juandpl18 (4e8e65b5-6a17-3235-86c0-0a5058a1c17b)
+[03Jan2025 00:36:03.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juandpl18 lost connection: Timed out
+[03Jan2025 00:36:03.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 left the game
+[03Jan2025 00:36:10.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juandpl18[/127.127.23.159:49775] logged in with entity id 2487 at (-232.12044386181103, 119.0, 134.7868499426386)
+[03Jan2025 00:36:10.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 joined the game
+[03Jan2025 00:36:10.157] [Server thread/INFO] [Jade/]: Syncing config to juandpl18 (4e8e65b5-6a17-3235-86c0-0a5058a1c17b)
