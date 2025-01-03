@@ -82,6 +82,7 @@
       "minecraft:mushroom_fields": "2025-01-03 01:27:16 +0000",
       "minecraft:deep_ocean": "2025-01-03 01:13:37 +0000",
       "minecraft:sunflower_plains": "2024-12-30 02:28:14 +0000",
+      "minecraft:birch_forest": "2025-01-03 03:36:38 +0000",
       "minecraft:beach": "2024-12-30 02:04:07 +0000",
       "minecraft:river": "2024-12-30 02:03:22 +0000",
       "minecraft:lukewarm_ocean": "2025-01-03 01:29:42 +0000",
@@ -708,8 +709,10 @@
       "minecraft:skeleton": "2024-12-30 02:18:23 +0000",
       "minecraft:vindicator": "2024-12-31 02:42:41 +0000",
       "minecraft:spider": "2024-12-30 03:33:25 +0000",
+      "minecraft:piglin_brute": "2025-01-03 03:32:01 +0000",
       "minecraft:creeper": "2024-12-30 04:01:11 +0000",
       "minecraft:cave_spider": "2024-12-30 03:41:55 +0000",
+      "minecraft:piglin": "2025-01-03 03:33:42 +0000",
       "minecraft:zombie": "2024-12-30 02:15:15 +0000",
       "minecraft:zombie_villager": "2024-12-30 05:55:02 +0000"
     },
@@ -2438,80 +2441,86 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 03:26:22 +0000"
+      "log_spam_fixer": "2025-01-03 03:36:24 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 03:26:22 +0000"
+      "log_spam_fixer": "2025-01-03 03:36:24 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 03:26:22 +0000"
+      "log_spam_fixer": "2025-01-03 03:36:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-01-03 03:26:58 +0000",
-      "log_spam_fixer": "2025-01-03 03:26:22 +0000"
+      "requirement": "2025-01-03 03:36:32 +0000",
+      "log_spam_fixer": "2025-01-03 03:36:24 +0000"
     },
     "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 03:26:22 +0000"
+      "log_spam_fixer": "2025-01-03 03:36:24 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 03:26:22 +0000"
+      "log_spam_fixer": "2025-01-03 03:36:24 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 03:26:22 +0000"
+      "log_spam_fixer": "2025-01-03 03:36:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 03:26:22 +0000"
+      "log_spam_fixer": "2025-01-03 03:36:24 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 03:26:22 +0000"
+      "log_spam_fixer": "2025-01-03 03:36:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 03:26:22 +0000"
+      "log_spam_fixer": "2025-01-03 03:36:24 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 03:26:22 +0000"
+      "log_spam_fixer": "2025-01-03 03:36:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 03:26:22 +0000"
+      "log_spam_fixer": "2025-01-03 03:36:24 +0000"
     },
     "done": false
   },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-01-03 02:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:32:15 +0000"
     },
     "done": true
   },
@@ -2545,15 +2554,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:32:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2025-01-03 03:13:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-03 02:26:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-01-03 03:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:32:15 +0000"
     },
     "done": true
   },
@@ -2566,6 +2599,12 @@
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2025-01-03 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:32:15 +0000"
     },
     "done": true
   },
@@ -2599,6 +2638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-01-03 02:26:00 +0000"
@@ -2617,6 +2662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:32:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_helmet": {
     "criteria": {
       "has_item": "2025-01-03 03:13:35 +0000"
@@ -2626,6 +2677,12 @@
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-01-03 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-01-03 03:31:04 +0000"
     },
     "done": true
   },
@@ -2707,6 +2764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:32:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2025-01-03 03:13:35 +0000"
@@ -2740,6 +2803,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-03 03:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:32:15 +0000"
     },
     "done": true
   },
