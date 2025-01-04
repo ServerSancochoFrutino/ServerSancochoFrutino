@@ -506,3 +506,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [04Jan2025 01:57:21.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 joined the game
 [04Jan2025 01:57:21.464] [Server thread/INFO] [Jade/]: Syncing config to juandpl18 (4e8e65b5-6a17-3235-86c0-0a5058a1c17b)
 [04Jan2025 01:57:25.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2455ms or 49 ticks behind
+[04Jan2025 02:08:23.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [You Are A Pirate]
+[04Jan2025 02:09:18.368] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1305, y=-25, z=167}
+[04Jan2025 02:09:18.369] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1309, y=-9, z=161}
+[04Jan2025 02:09:25.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1316, y=-6, z=54}
+[04Jan2025 02:10:06.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [Sea? Not a Problem]
+[04Jan2025 02:10:52.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has reached the goal [Horror of the Depths]
+[04Jan2025 02:12:49.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has made the advancement [It Belongs in a Museum]
+[04Jan2025 02:13:56.435] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1337, y=-30, z=100}
+[04Jan2025 02:13:58.491] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1347, y=-8, z=35}
+[04Jan2025 02:14:03.887] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1386, y=-8, z=42}
+[04Jan2025 02:15:45.879] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1517, y=-25, z=-42}
+[04Jan2025 02:15:48.262] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1536, y=-18, z=-28}
+[04Jan2025 02:15:49.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1458, y=-41, z=256}
+[04Jan2025 02:16:02.736] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1583, y=-6, z=89}
+[04Jan2025 02:16:06.741] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1587, y=-42, z=-70}
+[04Jan2025 02:16:27.743] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1757, y=-36, z=-41}
+[04Jan2025 02:16:30.437] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1769, y=-35, z=43}
+[04Jan2025 02:16:32.044] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1780, y=-14, z=-119}
+[04Jan2025 02:16:50.612] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1793, y=-12, z=-26}
+[04Jan2025 02:16:52.434] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1816, y=-36, z=7}
+[04Jan2025 02:16:56.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1852, y=-33, z=222}
+[04Jan2025 02:17:03.979] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1893, y=-15, z=252}
+[04Jan2025 02:17:20.525] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1509, y=-13, z=283}
+[04Jan2025 02:17:47.624] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1551, y=-13, z=299}
+[04Jan2025 02:17:47.626] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1566, y=-48, z=291}
+[04Jan2025 02:18:22.180] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1566, y=-12, z=309}
+[04Jan2025 02:18:22.273] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1894, y=-24, z=308}
+[04Jan2025 02:18:25.530] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1955, y=-41, z=161}
+[04Jan2025 02:18:59.427] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1968, y=-9, z=-76}
+[04Jan2025 02:19:12.628] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1977, y=-27, z=171}
+[04Jan2025 02:19:12.631] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1972, y=-48, z=182}
+[04Jan2025 02:23:55.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juandpl18 has completed the challenge [Village Defender]
